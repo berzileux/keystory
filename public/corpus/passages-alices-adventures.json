@@ -1,0 +1,2697 @@
+{
+  "source": {
+    "status": "active",
+    "id": "alices-adventures",
+    "title": "Alice's Adventures in Wonderland",
+    "gutenbergTitle": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "year": 1865,
+    "gutenbergId": 11,
+    "startMarker": "CHAPTER I.",
+    "occurrence": 2
+  },
+  "passages": [
+    {
+      "id": "alices-adventures-0000",
+      "text": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, \"and what is the use of a book,\" thought Alice \"without pictures or conversations?\"",
+      "words": 57,
+      "difficulty": "medium",
+      "score": 0.535,
+      "sourceId": "alices-adventures",
+      "paragraph": 0
+    },
+    {
+      "id": "alices-adventures-0001",
+      "text": "So she was considering in her own mind (as well as she could, for the hot day made her feel very sleepy and stupid), whether the pleasure of making a daisy-chain would be worth the trouble of getting up and picking the daisies, when suddenly a White Rabbit with pink eyes ran close by her.",
+      "words": 55,
+      "difficulty": "medium",
+      "score": 0.542,
+      "sourceId": "alices-adventures",
+      "paragraph": 1
+    },
+    {
+      "id": "alices-adventures-0002",
+      "text": "The rabbit-hole went straight on like a tunnel for some way, and then dipped suddenly down, so suddenly that Alice had not a moment to think about stopping herself before she found herself falling down a very deep well.",
+      "words": 39,
+      "difficulty": "medium",
+      "score": 0.633,
+      "sourceId": "alices-adventures",
+      "paragraph": 4
+    },
+    {
+      "id": "alices-adventures-0003",
+      "text": "Either the well was very deep, or she fell very slowly, for she had plenty of time as she went down to look about her and to wonder what was going to happen next.",
+      "words": 34,
+      "difficulty": "easy",
+      "score": -0.221,
+      "sourceId": "alices-adventures",
+      "paragraph": 5
+    },
+    {
+      "id": "alices-adventures-0004",
+      "text": "First, she tried to look down and make out what she was coming to, but it was too dark to see anything; then she looked at the sides of the well, and noticed that they were filled with cupboards and book-shelves; here and there she saw maps and pictures hung upon pegs.",
+      "words": 52,
+      "difficulty": "easy",
+      "score": 0.324,
+      "sourceId": "alices-adventures",
+      "paragraph": 5
+    },
+    {
+      "id": "alices-adventures-0005",
+      "text": "She took down a jar from one of the shelves as she passed; it was labelled \"ORANGE MARMALADE\", but to her great disappointment it was empty: she did not like to drop the jar for fear of killing somebody underneath, so managed to put it into one of the cupboards as she fell past it.",
+      "words": 55,
+      "difficulty": "medium",
+      "score": 0.666,
+      "sourceId": "alices-adventures",
+      "paragraph": 5
+    },
+    {
+      "id": "alices-adventures-0006",
+      "text": "The Antipathies, I think - \" (she was rather glad there was no one listening, this time, as it didn't sound at all the right word) \" - but I shall have to ask them what the name of the country is, you know.",
+      "words": 40,
+      "difficulty": "easy",
+      "score": 0.258,
+      "sourceId": "alices-adventures",
+      "paragraph": 8
+    },
+    {
+      "id": "alices-adventures-0007",
+      "text": "Please, Ma'am, is this New Zealand or Australia?\" (and she tried to curtsey as she spoke - fancy curtseying as you're falling through the air! Do you think you could manage it?) \"And what an ignorant little girl she'll think me for asking!",
+      "words": 42,
+      "difficulty": "hard",
+      "score": 1.314,
+      "sourceId": "alices-adventures",
+      "paragraph": 8
+    },
+    {
+      "id": "alices-adventures-0008",
+      "text": "Dinah my dear! I wish you were down here with me! There are no mice in the air, I'm afraid, but you might catch a bat, and that's very like a mouse, you know.",
+      "words": 34,
+      "difficulty": "easy",
+      "score": 0.193,
+      "sourceId": "alices-adventures",
+      "paragraph": 9
+    },
+    {
+      "id": "alices-adventures-0009",
+      "text": "But do cats eat bats, I wonder?\" And here Alice began to get rather sleepy, and went on saying to herself, in a dreamy sort of way, \"Do cats eat bats?",
+      "words": 31,
+      "difficulty": "medium",
+      "score": 0.527,
+      "sourceId": "alices-adventures",
+      "paragraph": 9
+    },
+    {
+      "id": "alices-adventures-0010",
+      "text": "She felt that she was dozing off, and had just begun to dream that she was walking hand in hand with Dinah, and saying to her very earnestly, \"Now, Dinah, tell me the truth: did you ever eat a bat?\" when suddenly, thump! thump! down she came upon a heap of sticks and dry leaves, and the fall was over.",
+      "words": 60,
+      "difficulty": "medium",
+      "score": 0.53,
+      "sourceId": "alices-adventures",
+      "paragraph": 9
+    },
+    {
+      "id": "alices-adventures-0011",
+      "text": "Alice was not a bit hurt, and she jumped up on to her feet in a moment: she looked up, but it was all dark overhead; before her was another long passage, and the White Rabbit was still in sight, hurrying down it.",
+      "words": 43,
+      "difficulty": "easy",
+      "score": 0.06,
+      "sourceId": "alices-adventures",
+      "paragraph": 10
+    },
+    {
+      "id": "alices-adventures-0012",
+      "text": "There was not a moment to be lost: away went Alice like the wind, and was just in time to hear it say, as it turned a corner, \"Oh my ears and whiskers, how late it's getting!\"",
+      "words": 37,
+      "difficulty": "easy",
+      "score": -0.064,
+      "sourceId": "alices-adventures",
+      "paragraph": 10
+    },
+    {
+      "id": "alices-adventures-0013",
+      "text": "She was close behind it when she turned the corner, but the Rabbit was no longer to be seen: she found herself in a long, low hall, which was lit up by a row of lamps hanging from the roof.",
+      "words": 40,
+      "difficulty": "easy",
+      "score": -0.16,
+      "sourceId": "alices-adventures",
+      "paragraph": 10
+    },
+    {
+      "id": "alices-adventures-0014",
+      "text": "There were doors all round the hall, but they were all locked; and when Alice had been all the way down one side and up the other, trying every door, she walked sadly down the middle, wondering how she was ever to get out again.",
+      "words": 45,
+      "difficulty": "easy",
+      "score": 0.152,
+      "sourceId": "alices-adventures",
+      "paragraph": 11
+    },
+    {
+      "id": "alices-adventures-0015",
+      "text": "However, on the second time round, she came upon a low curtain she had not noticed before, and behind it was a little door about fifteen inches high: she tried the little golden key in the lock, and to her great delight it fitted!",
+      "words": 44,
+      "difficulty": "easy",
+      "score": 0.379,
+      "sourceId": "alices-adventures",
+      "paragraph": 12
+    },
+    {
+      "id": "alices-adventures-0016",
+      "text": "Alice opened the door and found that it led into a small passage, not much larger than a rat-hole: she knelt down and looked along the passage into the loveliest garden you ever saw.",
+      "words": 34,
+      "difficulty": "easy",
+      "score": 0.42,
+      "sourceId": "alices-adventures",
+      "paragraph": 13
+    },
+    {
+      "id": "alices-adventures-0017",
+      "text": "However, this bottle was not marked \"poison,\" so Alice ventured to taste it, and finding it very nice, (it had, in fact, a sort of mixed flavour of cherry-tart, custard, pine-apple, roast turkey, toffee, and hot buttered toast,) she very soon finished it off.",
+      "words": 44,
+      "difficulty": "hard",
+      "score": 1.729,
+      "sourceId": "alices-adventures",
+      "paragraph": 16
+    },
+    {
+      "id": "alices-adventures-0018",
+      "text": "And so it was indeed: she was now only ten inches high, and her face brightened up at the thought that she was now the right size for going through the little door into that lovely garden.",
+      "words": 37,
+      "difficulty": "easy",
+      "score": 0.068,
+      "sourceId": "alices-adventures",
+      "paragraph": 18
+    },
+    {
+      "id": "alices-adventures-0019",
+      "text": "\"But it's no use now,\" thought poor Alice, \"to pretend to be two people! Why, there's hardly enough of me left to make one respectable person!\"",
+      "words": 26,
+      "difficulty": "hard",
+      "score": 0.992,
+      "sourceId": "alices-adventures",
+      "paragraph": 20
+    },
+    {
+      "id": "alices-adventures-0020",
+      "text": "Soon her eye fell on a little glass box that was lying under the table: she opened it, and found in it a very small cake, on which the words \"EAT ME\" were beautifully marked in currants.",
+      "words": 37,
+      "difficulty": "easy",
+      "score": 0.258,
+      "sourceId": "alices-adventures",
+      "paragraph": 21
+    },
+    {
+      "id": "alices-adventures-0021",
+      "text": "\"Well, I'll eat it,\" said Alice, \"and if it makes me grow larger, I can reach the key; and if it makes me grow smaller, I can creep under the door; so either way I'll get into the garden, and I don't care which happens!\"",
+      "words": 45,
+      "difficulty": "easy",
+      "score": 0.349,
+      "sourceId": "alices-adventures",
+      "paragraph": 21
+    },
+    {
+      "id": "alices-adventures-0022",
+      "text": "Good-bye, feet!\" (for when she looked down at her feet, they seemed to be almost out of sight, they were getting so far off). \"Oh, my poor little feet, I wonder who will put on your shoes and stockings for you now, dears?",
+      "words": 43,
+      "difficulty": "easy",
+      "score": 0.32,
+      "sourceId": "alices-adventures",
+      "paragraph": 24
+    },
+    {
+      "id": "alices-adventures-0023",
+      "text": "I'm sure I shan't be able! I shall be a great deal too far off to trouble myself about you: you must manage the best way you can; - but I must be kind to them,\" thought Alice, \"or perhaps they won't walk the way I want to go!",
+      "words": 48,
+      "difficulty": "easy",
+      "score": -0.042,
+      "sourceId": "alices-adventures",
+      "paragraph": 24
+    },
+    {
+      "id": "alices-adventures-0024",
+      "text": "Just then her head struck against the roof of the hall: in fact she was now more than nine feet high, and she at once took up the little golden key and hurried off to the garden door.",
+      "words": 38,
+      "difficulty": "easy",
+      "score": -0.273,
+      "sourceId": "alices-adventures",
+      "paragraph": 28
+    },
+    {
+      "id": "alices-adventures-0025",
+      "text": "Poor Alice! It was as much as she could do, lying down on one side, to look through into the garden with one eye; but to get through was more hopeless than ever: she sat down and began to cry again.",
+      "words": 41,
+      "difficulty": "easy",
+      "score": -0.116,
+      "sourceId": "alices-adventures",
+      "paragraph": 29
+    },
+    {
+      "id": "alices-adventures-0026",
+      "text": "Alice felt so desperate that she was ready to ask help of any one; so, when the Rabbit came near her, she began, in a low, timid voice, \"If you please, sir - \" The Rabbit started violently, dropped the white kid gloves and the fan, and skurried away into the darkness as hard as he could go.",
+      "words": 56,
+      "difficulty": "medium",
+      "score": 0.515,
+      "sourceId": "alices-adventures",
+      "paragraph": 31
+    },
+    {
+      "id": "alices-adventures-0027",
+      "text": "How queer everything is to-day! And yesterday things went on just as usual. I wonder if I've been changed in the night? Let me think: was I the same when I got up this morning?",
+      "words": 35,
+      "difficulty": "easy",
+      "score": 0.059,
+      "sourceId": "alices-adventures",
+      "paragraph": 32
+    },
+    {
+      "id": "alices-adventures-0028",
+      "text": "I almost think I can remember feeling a little different. But if I'm not the same, the next question is, Who in the world am I?",
+      "words": 26,
+      "difficulty": "easy",
+      "score": -0.037,
+      "sourceId": "alices-adventures",
+      "paragraph": 32
+    },
+    {
+      "id": "alices-adventures-0029",
+      "text": "Besides, she's she, and I'm I, and - oh dear, how puzzling it all is! I'll try if I know all the things I used to know.",
+      "words": 26,
+      "difficulty": "easy",
+      "score": 0.179,
+      "sourceId": "alices-adventures",
+      "paragraph": 33
+    },
+    {
+      "id": "alices-adventures-0030",
+      "text": "Let me see: four times five is twelve, and four times six is thirteen, and four times seven is - oh dear! I shall never get to twenty at that rate!",
+      "words": 30,
+      "difficulty": "easy",
+      "score": 0.008,
+      "sourceId": "alices-adventures",
+      "paragraph": 33
+    },
+    {
+      "id": "alices-adventures-0031",
+      "text": "However, the Multiplication Table doesn't signify: let's try Geography. London is the capital of Paris, and Paris is the capital of Rome, and Rome - no, that's all wrong, I'm certain!",
+      "words": 30,
+      "difficulty": "hard",
+      "score": 2.41,
+      "sourceId": "alices-adventures",
+      "paragraph": 33
+    },
+    {
+      "id": "alices-adventures-0032",
+      "text": "No, I've made up my mind about it; if I'm Mabel, I'll stay down here! It'll be no use their putting their heads down and saying 'Come up again, dear!'",
+      "words": 30,
+      "difficulty": "medium",
+      "score": 0.697,
+      "sourceId": "alices-adventures",
+      "paragraph": 36
+    },
+    {
+      "id": "alices-adventures-0033",
+      "text": "I shall only look up and say 'Who am I then? Tell me that first, and then, if I like being that person, I'll come up: if not, I'll stay down here till I'm somebody else' - but, oh dear!\" cried Alice, with a sudden burst of tears, \"I do wish they would put their heads down!",
+      "words": 56,
+      "difficulty": "easy",
+      "score": 0.335,
+      "sourceId": "alices-adventures",
+      "paragraph": 36
+    },
+    {
+      "id": "alices-adventures-0034",
+      "text": "As she said this she looked down at her hands, and was surprised to see that she had put on one of the Rabbit's little white kid gloves while she was talking.",
+      "words": 32,
+      "difficulty": "easy",
+      "score": 0.177,
+      "sourceId": "alices-adventures",
+      "paragraph": 37
+    },
+    {
+      "id": "alices-adventures-0035",
+      "text": "As she said these words her foot slipped, and in another moment, splash! she was up to her chin in salt water. Her first idea was that she had somehow fallen into the sea, \"and in that case I can go back by railway,\" she said to herself.",
+      "words": 48,
+      "difficulty": "easy",
+      "score": 0.138,
+      "sourceId": "alices-adventures",
+      "paragraph": 39
+    },
+    {
+      "id": "alices-adventures-0036",
+      "text": "\"Would it be of any use, now,\" thought Alice, \"to speak to this mouse? Everything is so out-of-the-way down here, that I should think very likely it can talk: at any rate, there's no harm in trying.\"",
+      "words": 37,
+      "difficulty": "easy",
+      "score": 0.379,
+      "sourceId": "alices-adventures",
+      "paragraph": 42
+    },
+    {
+      "id": "alices-adventures-0037",
+      "text": "\"Perhaps it doesn't understand English,\" thought Alice; \"I daresay it's a French mouse, come over with William the Conqueror.\" (For, with all her knowledge of history, Alice had no very clear notion how long ago anything had happened.) So she began again: \"Ou est ma chatte?\" which was the first sentence in her French lesson-book.",
+      "words": 55,
+      "difficulty": "hard",
+      "score": 1.738,
+      "sourceId": "alices-adventures",
+      "paragraph": 43
+    },
+    {
+      "id": "alices-adventures-0038",
+      "text": "The Mouse gave a sudden leap out of the water, and seemed to quiver all over with fright. \"Oh, I beg your pardon!\" cried Alice hastily, afraid that she had hurt the poor animal's feelings.",
+      "words": 35,
+      "difficulty": "hard",
+      "score": 0.964,
+      "sourceId": "alices-adventures",
+      "paragraph": 43
+    },
+    {
+      "id": "alices-adventures-0039",
+      "text": "A little bright-eyed terrier, you know, with oh, such long curly brown hair! And it'll fetch things when you throw them, and it'll sit up and beg for its dinner, and all sorts of things - I can't remember half of them - and it belongs to a farmer, you know, and he says it's so useful, it's worth a hundred pounds!",
+      "words": 60,
+      "difficulty": "medium",
+      "score": 0.799,
+      "sourceId": "alices-adventures",
+      "paragraph": 47
+    },
+    {
+      "id": "alices-adventures-0040",
+      "text": "So she called softly after it, \"Mouse dear! Do come back again, and we won't talk about cats or dogs either, if you don't like them!\"",
+      "words": 26,
+      "difficulty": "medium",
+      "score": 0.707,
+      "sourceId": "alices-adventures",
+      "paragraph": 48
+    },
+    {
+      "id": "alices-adventures-0041",
+      "text": "When the Mouse heard this, it turned round and swam slowly back to her: its face was quite pale (with passion, Alice thought), and it said in a low trembling voice, \"Let us get to the shore, and then I'll tell you my history, and you'll understand why it is I hate cats and dogs.\"",
+      "words": 55,
+      "difficulty": "easy",
+      "score": 0.409,
+      "sourceId": "alices-adventures",
+      "paragraph": 48
+    },
+    {
+      "id": "alices-adventures-0042",
+      "text": "It was high time to go, for the pool was getting quite crowded with the birds and animals that had fallen into it: there were a Duck and a Dodo, a Lory and an Eaglet, and several other curious creatures.",
+      "words": 40,
+      "difficulty": "easy",
+      "score": 0.396,
+      "sourceId": "alices-adventures",
+      "paragraph": 49
+    },
+    {
+      "id": "alices-adventures-0043",
+      "text": "They were indeed a queer-looking party that assembled on the bank - the birds with draggled feathers, the animals with their fur clinging close to them, and all dripping wet, cross, and uncomfortable.",
+      "words": 32,
+      "difficulty": "hard",
+      "score": 1.847,
+      "sourceId": "alices-adventures",
+      "paragraph": 50
+    },
+    {
+      "id": "alices-adventures-0044",
+      "text": "The first question of course was, how to get dry again: they had a consultation about this, and after a few minutes it seemed quite natural to Alice to find herself talking familiarly with them, as if she had known them all her life.",
+      "words": 44,
+      "difficulty": "easy",
+      "score": 0.356,
+      "sourceId": "alices-adventures",
+      "paragraph": 51
+    },
+    {
+      "id": "alices-adventures-0045",
+      "text": "Indeed, she had quite a long argument with the Lory, who at last turned sulky, and would only say, \"I am older than you, and must know better;\" and this Alice would not allow without knowing how old it was, and, as the Lory positively refused to tell its age, there was no more to be said.",
+      "words": 57,
+      "difficulty": "easy",
+      "score": 0.408,
+      "sourceId": "alices-adventures",
+      "paragraph": 51
+    },
+    {
+      "id": "alices-adventures-0046",
+      "text": "\"I know what 'it' means well enough, when I find a thing,\" said the Duck: \"it's generally a frog or a worm. The question is, what did the archbishop find?\"",
+      "words": 30,
+      "difficulty": "hard",
+      "score": 1.005,
+      "sourceId": "alices-adventures",
+      "paragraph": 60
+    },
+    {
+      "id": "alices-adventures-0047",
+      "text": "\"Speak English!\" said the Eaglet. \"I don't know the meaning of half those long words, and, what's more, I don't believe you do either!\" And the Eaglet bent down its head to hide a smile: some of the other birds tittered audibly.",
+      "words": 42,
+      "difficulty": "hard",
+      "score": 1.053,
+      "sourceId": "alices-adventures",
+      "paragraph": 64
+    },
+    {
+      "id": "alices-adventures-0048",
+      "text": "\"What I was going to say,\" said the Dodo in an offended tone, \"was, that the best thing to get us dry would be a Caucus-race.\"",
+      "words": 26,
+      "difficulty": "easy",
+      "score": 0.255,
+      "sourceId": "alices-adventures",
+      "paragraph": 65
+    },
+    {
+      "id": "alices-adventures-0049",
+      "text": "\"What is a Caucus-race?\" said Alice; not that she wanted much to know, but the Dodo had paused as if it thought that somebody ought to speak, and no one else seemed inclined to say anything.",
+      "words": 36,
+      "difficulty": "easy",
+      "score": 0.437,
+      "sourceId": "alices-adventures",
+      "paragraph": 66
+    },
+    {
+      "id": "alices-adventures-0050",
+      "text": "First it marked out a race-course, in a sort of circle, (\"the exact shape doesn't matter,\" it said,) and then all the party were placed along the course, here and there.",
+      "words": 31,
+      "difficulty": "medium",
+      "score": 0.698,
+      "sourceId": "alices-adventures",
+      "paragraph": 68
+    },
+    {
+      "id": "alices-adventures-0051",
+      "text": "There was no \"One, two, three, and away,\" but they began running when they liked, and left off when they liked, so that it was not easy to know when the race was over.",
+      "words": 34,
+      "difficulty": "easy",
+      "score": 0.015,
+      "sourceId": "alices-adventures",
+      "paragraph": 68
+    },
+    {
+      "id": "alices-adventures-0052",
+      "text": "However, when they had been running half an hour or so, and were quite dry again, the Dodo suddenly called out \"The race is over!\" and they all crowded round it, panting, and asking, \"But who has won?\"",
+      "words": 38,
+      "difficulty": "medium",
+      "score": 0.713,
+      "sourceId": "alices-adventures",
+      "paragraph": 68
+    },
+    {
+      "id": "alices-adventures-0053",
+      "text": "This question the Dodo could not answer without a great deal of thought, and it sat for a long time with one finger pressed upon its forehead (the position in which you usually see Shakespeare, in the pictures of him), while the rest waited in silence.",
+      "words": 46,
+      "difficulty": "medium",
+      "score": 0.603,
+      "sourceId": "alices-adventures",
+      "paragraph": 69
+    },
+    {
+      "id": "alices-adventures-0054",
+      "text": "Alice had no idea what to do, and in despair she put her hand in her pocket, and pulled out a box of comfits, (luckily the salt water had not got into it), and handed them round as prizes.",
+      "words": 39,
+      "difficulty": "easy",
+      "score": 0.147,
+      "sourceId": "alices-adventures",
+      "paragraph": 72
+    },
+    {
+      "id": "alices-adventures-0055",
+      "text": "Then they all crowded round her once more, while the Dodo solemnly presented the thimble, saying \"We beg your acceptance of this elegant thimble;\" and, when it had finished this short speech, they all cheered.",
+      "words": 35,
+      "difficulty": "hard",
+      "score": 1.811,
+      "sourceId": "alices-adventures",
+      "paragraph": 77
+    },
+    {
+      "id": "alices-adventures-0056",
+      "text": "Alice thought the whole thing very absurd, but they all looked so grave that she did not dare to laugh; and, as she could not think of anything to say, she simply bowed, and took the thimble, looking as solemn as she could.",
+      "words": 43,
+      "difficulty": "easy",
+      "score": 0.439,
+      "sourceId": "alices-adventures",
+      "paragraph": 78
+    },
+    {
+      "id": "alices-adventures-0057",
+      "text": "The next thing was to eat the comfits: this caused some noise and confusion, as the large birds complained that they could not taste theirs, and the small ones choked and had to be patted on the back.",
+      "words": 38,
+      "difficulty": "medium",
+      "score": 0.579,
+      "sourceId": "alices-adventures",
+      "paragraph": 79
+    },
+    {
+      "id": "alices-adventures-0058",
+      "text": "\"You promised to tell me your history, you know,\" said Alice, \"and why it is you hate - C and D,\" she added in a whisper, half afraid that it would be offended again.",
+      "words": 33,
+      "difficulty": "medium",
+      "score": 0.523,
+      "sourceId": "alices-adventures",
+      "paragraph": 80
+    },
+    {
+      "id": "alices-adventures-0059",
+      "text": "\"Please come back and finish your story!\" Alice called after it; and the others all joined in chorus, \"Yes, please do!\" but the Mouse only shook its head impatiently, and walked a little quicker.",
+      "words": 34,
+      "difficulty": "hard",
+      "score": 1.246,
+      "sourceId": "alices-adventures",
+      "paragraph": 91
+    },
+    {
+      "id": "alices-adventures-0060",
+      "text": "In a little while, however, she again heard a little pattering of footsteps in the distance, and she looked up eagerly, half hoping that the Mouse had changed his mind, and was coming back to finish his story.",
+      "words": 38,
+      "difficulty": "medium",
+      "score": 0.85,
+      "sourceId": "alices-adventures",
+      "paragraph": 97
+    },
+    {
+      "id": "alices-adventures-0061",
+      "text": "\"He took me for his housemaid,\" she said to herself as she ran. \"How surprised he'll be when he finds out who I am! But I'd better take him his fan and gloves - that is, if I can find them.\"",
+      "words": 40,
+      "difficulty": "easy",
+      "score": 0.382,
+      "sourceId": "alices-adventures",
+      "paragraph": 100
+    },
+    {
+      "id": "alices-adventures-0062",
+      "text": "Come here directly, and get ready for your walk!' 'Coming in a minute, nurse! But I've got to see that the mouse doesn't get out.'",
+      "words": 25,
+      "difficulty": "medium",
+      "score": 0.754,
+      "sourceId": "alices-adventures",
+      "paragraph": 101
+    },
+    {
+      "id": "alices-adventures-0063",
+      "text": "It did so indeed, and much sooner than she had expected: before she had drunk half the bottle, she found her head pressing against the ceiling, and had to stoop to save her neck from being broken.",
+      "words": 37,
+      "difficulty": "medium",
+      "score": 0.569,
+      "sourceId": "alices-adventures",
+      "paragraph": 103
+    },
+    {
+      "id": "alices-adventures-0064",
+      "text": "She hastily put down the bottle, saying to herself \"That's quite enough - I hope I shan't grow any more - As it is, I can't get out at the door - I do wish I hadn't drunk quite so much!\"",
+      "words": 38,
+      "difficulty": "easy",
+      "score": 0.314,
+      "sourceId": "alices-adventures",
+      "paragraph": 103
+    },
+    {
+      "id": "alices-adventures-0065",
+      "text": "Alas! it was too late to wish that! She went on growing, and growing, and very soon had to kneel down on the floor: in another minute there was not even room for this, and she tried the effect of lying down with one elbow against the door, and the other arm curled round her head.",
+      "words": 56,
+      "difficulty": "easy",
+      "score": 0.121,
+      "sourceId": "alices-adventures",
+      "paragraph": 104
+    },
+    {
+      "id": "alices-adventures-0066",
+      "text": "Luckily for Alice, the little magic bottle had now had its full effect, and she grew no larger: still it was very uncomfortable, and, as there seemed to be no sort of chance of her ever getting out of the room again, no wonder she felt unhappy.",
+      "words": 47,
+      "difficulty": "easy",
+      "score": 0.342,
+      "sourceId": "alices-adventures",
+      "paragraph": 105
+    },
+    {
+      "id": "alices-adventures-0067",
+      "text": "I almost wish I hadn't gone down that rabbit-hole - and yet - and yet - it's rather curious, you know, this sort of life! I do wonder what can have happened to me!",
+      "words": 31,
+      "difficulty": "easy",
+      "score": 0.32,
+      "sourceId": "alices-adventures",
+      "paragraph": 106
+    },
+    {
+      "id": "alices-adventures-0068",
+      "text": "When I used to read fairy-tales, I fancied that kind of thing never happened, and now here I am in the middle of one! There ought to be a book written about me, that there ought!",
+      "words": 36,
+      "difficulty": "easy",
+      "score": 0.083,
+      "sourceId": "alices-adventures",
+      "paragraph": 106
+    },
+    {
+      "id": "alices-adventures-0069",
+      "text": "\"Oh, you foolish Alice!\" she answered herself. \"How can you learn lessons in here? Why, there's hardly room for you, and no room at all for any lesson-books!\"",
+      "words": 28,
+      "difficulty": "hard",
+      "score": 1.037,
+      "sourceId": "alices-adventures",
+      "paragraph": 108
+    },
+    {
+      "id": "alices-adventures-0070",
+      "text": "And so she went on, taking first one side and then the other, and making quite a conversation of it altogether; but after a few minutes she heard a voice outside, and stopped to listen.",
+      "words": 35,
+      "difficulty": "easy",
+      "score": 0.242,
+      "sourceId": "alices-adventures",
+      "paragraph": 109
+    },
+    {
+      "id": "alices-adventures-0071",
+      "text": "Alice knew it was the Rabbit coming to look for her, and she trembled till she shook the house, quite forgetting that she was now about a thousand times as large as the Rabbit, and had no reason to be afraid of it.",
+      "words": 43,
+      "difficulty": "easy",
+      "score": 0.033,
+      "sourceId": "alices-adventures",
+      "paragraph": 110
+    },
+    {
+      "id": "alices-adventures-0072",
+      "text": "Presently the Rabbit came up to the door, and tried to open it; but, as the door opened inwards, and Alice's elbow was pressed hard against it, that attempt proved a failure.",
+      "words": 32,
+      "difficulty": "medium",
+      "score": 0.859,
+      "sourceId": "alices-adventures",
+      "paragraph": 111
+    },
+    {
+      "id": "alices-adventures-0073",
+      "text": "\"That you won't!\" thought Alice, and, after waiting till she fancied she heard the Rabbit just under the window, she suddenly spread out her hand, and made a snatch in the air.",
+      "words": 32,
+      "difficulty": "medium",
+      "score": 0.78,
+      "sourceId": "alices-adventures",
+      "paragraph": 112
+    },
+    {
+      "id": "alices-adventures-0074",
+      "text": "She did not get hold of anything, but she heard a little shriek and a fall, and a crash of broken glass, from which she concluded that it was just possible it had fallen into a cucumber-frame, or something of the sort.",
+      "words": 42,
+      "difficulty": "easy",
+      "score": 0.331,
+      "sourceId": "alices-adventures",
+      "paragraph": 112
+    },
+    {
+      "id": "alices-adventures-0075",
+      "text": "There was a long silence after this, and Alice could only hear whispers now and then; such as, \"Sure, I don't like it, yer honour, at all, at all!\"",
+      "words": 29,
+      "difficulty": "medium",
+      "score": 0.514,
+      "sourceId": "alices-adventures",
+      "paragraph": 120
+    },
+    {
+      "id": "alices-adventures-0076",
+      "text": "\"Do as I tell you, you coward!\" and at last she spread out her hand again, and made another snatch in the air. This time there were two little shrieks, and more sounds of broken glass.",
+      "words": 36,
+      "difficulty": "easy",
+      "score": 0.401,
+      "sourceId": "alices-adventures",
+      "paragraph": 120
+    },
+    {
+      "id": "alices-adventures-0077",
+      "text": "\"Oh! So Bill's got to come down the chimney, has he?\" said Alice to herself. \"Shy, they seem to put everything upon Bill! I wouldn't be in Bill's place for a good deal: this fireplace is narrow, to be sure; but I think I can kick a little!\"",
+      "words": 48,
+      "difficulty": "medium",
+      "score": 0.737,
+      "sourceId": "alices-adventures",
+      "paragraph": 122
+    },
+    {
+      "id": "alices-adventures-0078",
+      "text": "She drew her foot as far down the chimney as she could, and waited till she heard a little animal (she couldn't guess of what sort it was) scratching and scrambling about in the chimney close above her: then, saying to herself \"This is Bill,\" she gave one sharp kick, and waited to see what would happen next.",
+      "words": 58,
+      "difficulty": "medium",
+      "score": 0.69,
+      "sourceId": "alices-adventures",
+      "paragraph": 123
+    },
+    {
+      "id": "alices-adventures-0079",
+      "text": "Last came a little feeble, squeaking voice, (\"That's Bill,\" thought Alice,) \"Well, I hardly know - No more, thank ye; I'm better now - but I'm a deal too flustered to tell you - all I know is, something comes at me like a Jack-in-the-box, and up I goes like a sky-rocket!\"",
+      "words": 49,
+      "difficulty": "medium",
+      "score": 0.831,
+      "sourceId": "alices-adventures",
+      "paragraph": 125
+    },
+    {
+      "id": "alices-adventures-0080",
+      "text": "\"We must burn the house down!\" said the Rabbit's voice; and Alice called out as loud as she could, \"If you do, I'll set Dinah at you!\"",
+      "words": 27,
+      "difficulty": "medium",
+      "score": 0.621,
+      "sourceId": "alices-adventures",
+      "paragraph": 127
+    },
+    {
+      "id": "alices-adventures-0081",
+      "text": "There was a dead silence instantly, and Alice thought to herself, \"I wonder what they will do next! If they had any sense, they'd take the roof off.\"",
+      "words": 28,
+      "difficulty": "medium",
+      "score": 0.551,
+      "sourceId": "alices-adventures",
+      "paragraph": 128
+    },
+    {
+      "id": "alices-adventures-0082",
+      "text": "\"A barrowful of what?\" thought Alice; but she had not long to doubt, for the next moment a shower of little pebbles came rattling in at the window, and some of them hit her in the face.",
+      "words": 37,
+      "difficulty": "easy",
+      "score": 0.422,
+      "sourceId": "alices-adventures",
+      "paragraph": 129
+    },
+    {
+      "id": "alices-adventures-0083",
+      "text": "Alice noticed with some surprise that the pebbles were all turning into little cakes as they lay on the floor, and a bright idea came into her head.",
+      "words": 28,
+      "difficulty": "easy",
+      "score": 0.399,
+      "sourceId": "alices-adventures",
+      "paragraph": 130
+    },
+    {
+      "id": "alices-adventures-0084",
+      "text": "\"If I eat one of these cakes,\" she thought, \"it's sure to make some change in my size; and as it can't possibly make me larger, it must make me smaller, I suppose.\"",
+      "words": 33,
+      "difficulty": "easy",
+      "score": 0.41,
+      "sourceId": "alices-adventures",
+      "paragraph": 130
+    },
+    {
+      "id": "alices-adventures-0085",
+      "text": "So she swallowed one of the cakes, and was delighted to find that she began shrinking directly. As soon as she was small enough to get through the door, she ran out of the house, and found quite a crowd of little animals and birds waiting outside.",
+      "words": 47,
+      "difficulty": "easy",
+      "score": 0.428,
+      "sourceId": "alices-adventures",
+      "paragraph": 131
+    },
+    {
+      "id": "alices-adventures-0086",
+      "text": "The poor little Lizard, Bill, was in the middle, being held up by two guinea-pigs, who were giving it something out of a bottle. They all made a rush at Alice the moment she appeared; but she ran off as hard as she could, and soon found herself safe in a thick wood.",
+      "words": 53,
+      "difficulty": "easy",
+      "score": 0.212,
+      "sourceId": "alices-adventures",
+      "paragraph": 131
+    },
+    {
+      "id": "alices-adventures-0087",
+      "text": "It sounded an excellent plan, no doubt, and very neatly and simply arranged; the only difficulty was, that she had not the smallest idea how to set about it; and while she was peering about anxiously among the trees, a little sharp bark just over her head made her look up in a great hurry.",
+      "words": 55,
+      "difficulty": "medium",
+      "score": 0.587,
+      "sourceId": "alices-adventures",
+      "paragraph": 133
+    },
+    {
+      "id": "alices-adventures-0088",
+      "text": "\"Poor little thing!\" said Alice, in a coaxing tone, and she tried hard to whistle to it; but she was terribly frightened all the time at the thought that it might be hungry, in which case it would be very likely to eat her up in spite of all her coaxing.",
+      "words": 51,
+      "difficulty": "easy",
+      "score": 0.252,
+      "sourceId": "alices-adventures",
+      "paragraph": 134
+    },
+    {
+      "id": "alices-adventures-0089",
+      "text": "This seemed to Alice a good opportunity for making her escape; so she set off at once, and ran till she was quite tired and out of breath, and till the puppy's bark sounded quite faint in the distance.",
+      "words": 39,
+      "difficulty": "easy",
+      "score": 0.356,
+      "sourceId": "alices-adventures",
+      "paragraph": 136
+    },
+    {
+      "id": "alices-adventures-0090",
+      "text": "The great question certainly was, what? Alice looked all round her at the flowers and the blades of grass, but she did not see anything that looked like the right thing to eat or drink under the circumstances.",
+      "words": 38,
+      "difficulty": "medium",
+      "score": 0.491,
+      "sourceId": "alices-adventures",
+      "paragraph": 138
+    },
+    {
+      "id": "alices-adventures-0091",
+      "text": "There was a large mushroom growing near her, about the same height as herself; and when she had looked under it, and on both sides of it, and behind it, it occurred to her that she might as well look and see what was on the top of it.",
+      "words": 49,
+      "difficulty": "easy",
+      "score": -0.209,
+      "sourceId": "alices-adventures",
+      "paragraph": 138
+    },
+    {
+      "id": "alices-adventures-0092",
+      "text": "She stretched herself up on tiptoe, and peeped over the edge of the mushroom, and her eyes immediately met those of a large blue caterpillar, that was sitting on the top with its arms folded, quietly smoking a long hookah, and taking not the smallest notice of her or of anything else.",
+      "words": 52,
+      "difficulty": "medium",
+      "score": 0.857,
+      "sourceId": "alices-adventures",
+      "paragraph": 139
+    },
+    {
+      "id": "alices-adventures-0093",
+      "text": "The Caterpillar and Alice looked at each other for some time in silence: at last the Caterpillar took the hookah out of its mouth, and addressed her in a languid, sleepy voice.",
+      "words": 32,
+      "difficulty": "medium",
+      "score": 0.902,
+      "sourceId": "alices-adventures",
+      "paragraph": 140
+    },
+    {
+      "id": "alices-adventures-0094",
+      "text": "This was not an encouraging opening for a conversation. Alice replied, rather shyly, \"I - I hardly know, sir, just at present - at least I know who I was when I got up this morning, but I think I must have been changed several times since then.\"",
+      "words": 46,
+      "difficulty": "easy",
+      "score": 0.445,
+      "sourceId": "alices-adventures",
+      "paragraph": 142
+    },
+    {
+      "id": "alices-adventures-0095",
+      "text": "\"I'm afraid I can't put it more clearly,\" Alice replied very politely, \"for I can't understand it myself to begin with; and being so many different sizes in a day is very confusing.\"",
+      "words": 33,
+      "difficulty": "hard",
+      "score": 0.98,
+      "sourceId": "alices-adventures",
+      "paragraph": 146
+    },
+    {
+      "id": "alices-adventures-0096",
+      "text": "\"Well, perhaps you haven't found it so yet,\" said Alice; \"but when you have to turn into a chrysalis - you will some day, you know - and then after that into a butterfly, I should think you'll feel it a little queer, won't you?\"",
+      "words": 43,
+      "difficulty": "medium",
+      "score": 0.758,
+      "sourceId": "alices-adventures",
+      "paragraph": 148
+    },
+    {
+      "id": "alices-adventures-0097",
+      "text": "Which brought them back again to the beginning of the conversation. Alice felt a little irritated at the Caterpillar's making such very short remarks, and she drew herself up and said, very gravely, \"I think, you ought to tell me who you are, first.\"",
+      "words": 44,
+      "difficulty": "hard",
+      "score": 0.973,
+      "sourceId": "alices-adventures",
+      "paragraph": 152
+    },
+    {
+      "id": "alices-adventures-0098",
+      "text": "Here was another puzzling question; and as Alice could not think of any good reason, and as the Caterpillar seemed to be in a very unpleasant state of mind, she turned away.",
+      "words": 32,
+      "difficulty": "medium",
+      "score": 0.625,
+      "sourceId": "alices-adventures",
+      "paragraph": 154
+    },
+    {
+      "id": "alices-adventures-0099",
+      "text": "Alice thought she might as well wait, as she had nothing else to do, and perhaps after all it might tell her something worth hearing.",
+      "words": 25,
+      "difficulty": "easy",
+      "score": 0.266,
+      "sourceId": "alices-adventures",
+      "paragraph": 160
+    },
+    {
+      "id": "alices-adventures-0100",
+      "text": "For some minutes it puffed away without speaking, but at last it unfolded its arms, took the hookah out of its mouth again, and said, \"So you think you're changed, do you?\"",
+      "words": 32,
+      "difficulty": "medium",
+      "score": 0.761,
+      "sourceId": "alices-adventures",
+      "paragraph": 160
+    },
+    {
+      "id": "alices-adventures-0101",
+      "text": "\"I'm afraid I am, sir,\" said Alice; \"I can't remember things as I used - and I don't keep the same size for ten minutes together!\"",
+      "words": 25,
+      "difficulty": "medium",
+      "score": 0.563,
+      "sourceId": "alices-adventures",
+      "paragraph": 161
+    },
+    {
+      "id": "alices-adventures-0102",
+      "text": "\"You are old, Father William,\" the young man said, \"And your hair has become very white; And yet you incessantly stand on your head - Do you think, at your age, it is right?\"",
+      "words": 33,
+      "difficulty": "medium",
+      "score": 0.49,
+      "sourceId": "alices-adventures",
+      "paragraph": 166
+    },
+    {
+      "id": "alices-adventures-0103",
+      "text": "\"In my youth,\" Father William replied to his son, \"I feared it might injure the brain; But, now that I'm perfectly sure I have none, Why, I do it again and again.\"",
+      "words": 32,
+      "difficulty": "easy",
+      "score": 0.411,
+      "sourceId": "alices-adventures",
+      "paragraph": 167
+    },
+    {
+      "id": "alices-adventures-0104",
+      "text": "\"You are old,\" said the youth, \"as I mentioned before, And have grown most uncommonly fat; Yet you turned a back-somersault in at the door - Pray, what is the reason of that?\"",
+      "words": 32,
+      "difficulty": "medium",
+      "score": 0.728,
+      "sourceId": "alices-adventures",
+      "paragraph": 168
+    },
+    {
+      "id": "alices-adventures-0105",
+      "text": "\"In my youth,\" said the sage, as he shook his grey locks, \"I kept all my limbs very supple By the use of this ointment - one shilling the box - Allow me to sell you a couple?\"",
+      "words": 36,
+      "difficulty": "easy",
+      "score": 0.427,
+      "sourceId": "alices-adventures",
+      "paragraph": 169
+    },
+    {
+      "id": "alices-adventures-0106",
+      "text": "\"You are old,\" said the youth, \"and your jaws are too weak For anything tougher than suet; Yet you finished the goose, with the bones and the beak - Pray, how did you manage to do it?\"",
+      "words": 36,
+      "difficulty": "medium",
+      "score": 0.703,
+      "sourceId": "alices-adventures",
+      "paragraph": 170
+    },
+    {
+      "id": "alices-adventures-0107",
+      "text": "\"In my youth,\" said his father, \"I took to the law, And argued each case with my wife; And the muscular strength, which it gave to my jaw, Has lasted the rest of my life.\"",
+      "words": 35,
+      "difficulty": "easy",
+      "score": 0.386,
+      "sourceId": "alices-adventures",
+      "paragraph": 171
+    },
+    {
+      "id": "alices-adventures-0108",
+      "text": "\"You are old,\" said the youth, \"one would hardly suppose That your eye was as steady as ever; Yet you balanced an eel on the end of your nose - What made you so awfully clever?\"",
+      "words": 35,
+      "difficulty": "easy",
+      "score": 0.366,
+      "sourceId": "alices-adventures",
+      "paragraph": 172
+    },
+    {
+      "id": "alices-adventures-0109",
+      "text": "\"Well, I should like to be a little larger, sir, if you wouldn't mind,\" said Alice: \"three inches is such a wretched height to be.\"",
+      "words": 25,
+      "difficulty": "medium",
+      "score": 0.64,
+      "sourceId": "alices-adventures",
+      "paragraph": 183
+    },
+    {
+      "id": "alices-adventures-0110",
+      "text": "\"But I'm not used to it!\" pleaded poor Alice in a piteous tone. And she thought of herself, \"I wish the creatures wouldn't be so easily offended!\"",
+      "words": 27,
+      "difficulty": "hard",
+      "score": 1.078,
+      "sourceId": "alices-adventures",
+      "paragraph": 185
+    },
+    {
+      "id": "alices-adventures-0111",
+      "text": "This time Alice waited patiently until it chose to speak again. In a minute or two the Caterpillar took the hookah out of its mouth and yawned once or twice, and shook itself.",
+      "words": 33,
+      "difficulty": "medium",
+      "score": 0.668,
+      "sourceId": "alices-adventures",
+      "paragraph": 187
+    },
+    {
+      "id": "alices-adventures-0112",
+      "text": "Then it got down off the mushroom, and crawled away in the grass, merely remarking as it went, \"One side will make you grow taller, and the other side will make you grow shorter.\"",
+      "words": 34,
+      "difficulty": "medium",
+      "score": 0.72,
+      "sourceId": "alices-adventures",
+      "paragraph": 187
+    },
+    {
+      "id": "alices-adventures-0113",
+      "text": "Alice remained looking thoughtfully at the mushroom for a minute, trying to make out which were the two sides of it; and as it was perfectly round, she found this a very difficult question.",
+      "words": 34,
+      "difficulty": "medium",
+      "score": 0.659,
+      "sourceId": "alices-adventures",
+      "paragraph": 190
+    },
+    {
+      "id": "alices-adventures-0114",
+      "text": "However, at last she stretched her arms round it as far as they would go, and broke off a bit of the edge with each hand.",
+      "words": 26,
+      "difficulty": "easy",
+      "score": -0.375,
+      "sourceId": "alices-adventures",
+      "paragraph": 190
+    },
+    {
+      "id": "alices-adventures-0115",
+      "text": "\"And now which is which?\" she said to herself, and nibbled a little of the right-hand bit to try the effect: the next moment she felt a violent blow underneath her chin: it had struck her foot!",
+      "words": 37,
+      "difficulty": "easy",
+      "score": 0.293,
+      "sourceId": "alices-adventures",
+      "paragraph": 191
+    },
+    {
+      "id": "alices-adventures-0116",
+      "text": "She was a good deal frightened by this very sudden change, but she felt that there was no time to be lost, as she was shrinking rapidly; so she set to work at once to eat some of the other bit.",
+      "words": 41,
+      "difficulty": "easy",
+      "score": -0.285,
+      "sourceId": "alices-adventures",
+      "paragraph": 192
+    },
+    {
+      "id": "alices-adventures-0117",
+      "text": "Her chin was pressed so closely against her foot, that there was hardly room to open her mouth; but she did it at last, and managed to swallow a morsel of the lefthand bit.",
+      "words": 34,
+      "difficulty": "easy",
+      "score": 0.444,
+      "sourceId": "alices-adventures",
+      "paragraph": 192
+    },
+    {
+      "id": "alices-adventures-0118",
+      "text": "\"What can all that green stuff be?\" said Alice. \"And where have my shoulders got to? And oh, my poor hands, how is it I can't see you?\"",
+      "words": 28,
+      "difficulty": "easy",
+      "score": 0.222,
+      "sourceId": "alices-adventures",
+      "paragraph": 194
+    },
+    {
+      "id": "alices-adventures-0119",
+      "text": "As there seemed to be no chance of getting her hands up to her head, she tried to get her head down to them, and was delighted to find that her neck would bend about easily in any direction, like a serpent.",
+      "words": 42,
+      "difficulty": "easy",
+      "score": 0.042,
+      "sourceId": "alices-adventures",
+      "paragraph": 195
+    },
+    {
+      "id": "alices-adventures-0120",
+      "text": "\"Serpent, I say again!\" repeated the Pigeon, but in a more subdued tone, and added with a kind of sob, \"I've tried every way, and nothing seems to suit them!\"",
+      "words": 30,
+      "difficulty": "hard",
+      "score": 0.993,
+      "sourceId": "alices-adventures",
+      "paragraph": 198
+    },
+    {
+      "id": "alices-adventures-0121",
+      "text": "\"As if it wasn't trouble enough hatching the eggs,\" said the Pigeon; \"but I must be on the look-out for serpents night and day! Why, I haven't had a wink of sleep these three weeks!\"",
+      "words": 35,
+      "difficulty": "medium",
+      "score": 0.876,
+      "sourceId": "alices-adventures",
+      "paragraph": 202
+    },
+    {
+      "id": "alices-adventures-0122",
+      "text": "\"I have tasted eggs, certainly,\" said Alice, who was a very truthful child; \"but little girls eat eggs quite as much as serpents do, you know.\"",
+      "words": 26,
+      "difficulty": "hard",
+      "score": 1.23,
+      "sourceId": "alices-adventures",
+      "paragraph": 209
+    },
+    {
+      "id": "alices-adventures-0123",
+      "text": "This was such a new idea to Alice, that she was quite silent for a minute or two, which gave the Pigeon the opportunity of adding, \"You're looking for eggs, I know that well enough; and what does it matter to me whether you're a little girl or a serpent?\"",
+      "words": 50,
+      "difficulty": "easy",
+      "score": 0.392,
+      "sourceId": "alices-adventures",
+      "paragraph": 211
+    },
+    {
+      "id": "alices-adventures-0124",
+      "text": "\"It matters a good deal to me,\" said Alice hastily; \"but I'm not looking for eggs, as it happens; and if I was, I shouldn't want yours: I don't like them raw.\"",
+      "words": 32,
+      "difficulty": "medium",
+      "score": 0.712,
+      "sourceId": "alices-adventures",
+      "paragraph": 212
+    },
+    {
+      "id": "alices-adventures-0125",
+      "text": "\"Well, be off, then!\" said the Pigeon in a sulky tone, as it settled down again into its nest. Alice crouched down among the trees as well as she could, for her neck kept getting entangled among the branches, and every now and then she had to stop and untwist it.",
+      "words": 51,
+      "difficulty": "medium",
+      "score": 0.572,
+      "sourceId": "alices-adventures",
+      "paragraph": 213
+    },
+    {
+      "id": "alices-adventures-0126",
+      "text": "After a while she remembered that she still held the pieces of mushroom in her hands, and she set to work very carefully, nibbling first at one and then at the other, and growing sometimes taller and sometimes shorter, until she had succeeded in bringing herself down to her usual height.",
+      "words": 51,
+      "difficulty": "medium",
+      "score": 0.836,
+      "sourceId": "alices-adventures",
+      "paragraph": 213
+    },
+    {
+      "id": "alices-adventures-0127",
+      "text": "It was so long since she had been anything near the right size, that it felt quite strange at first; but she got used to it in a few minutes, and began talking to herself, as usual.",
+      "words": 37,
+      "difficulty": "easy",
+      "score": -0.14,
+      "sourceId": "alices-adventures",
+      "paragraph": 214
+    },
+    {
+      "id": "alices-adventures-0128",
+      "text": "As she said this, she came suddenly upon an open place, with a little house in it about four feet high. \"Whoever lives there,\" thought Alice, \"it'll never do to come upon them this size: why, I should frighten them out of their wits!\"",
+      "words": 44,
+      "difficulty": "medium",
+      "score": 0.696,
+      "sourceId": "alices-adventures",
+      "paragraph": 214
+    },
+    {
+      "id": "alices-adventures-0129",
+      "text": "So she began nibbling at the righthand bit again, and did not venture to go near the house till she had brought herself down to nine inches high.",
+      "words": 28,
+      "difficulty": "easy",
+      "score": 0.402,
+      "sourceId": "alices-adventures",
+      "paragraph": 214
+    },
+    {
+      "id": "alices-adventures-0130",
+      "text": "It was opened by another footman in livery, with a round face, and large eyes like a frog; and both footmen, Alice noticed, had powdered hair that curled all over their heads.",
+      "words": 32,
+      "difficulty": "hard",
+      "score": 1.112,
+      "sourceId": "alices-adventures",
+      "paragraph": 215
+    },
+    {
+      "id": "alices-adventures-0131",
+      "text": "An invitation from the Queen to play croquet.\" The Frog-Footman repeated, in the same solemn tone, only changing the order of the words a little, \"From the Queen.",
+      "words": 28,
+      "difficulty": "hard",
+      "score": 1.19,
+      "sourceId": "alices-adventures",
+      "paragraph": 216
+    },
+    {
+      "id": "alices-adventures-0132",
+      "text": "Alice laughed so much at this, that she had to run back into the wood for fear of their hearing her; and when she next peeped out the Fish-Footman was gone, and the other was sitting on the ground near the door, staring stupidly up into the sky.",
+      "words": 48,
+      "difficulty": "easy",
+      "score": 0.208,
+      "sourceId": "alices-adventures",
+      "paragraph": 218
+    },
+    {
+      "id": "alices-adventures-0133",
+      "text": "\"There's no sort of use in knocking,\" said the Footman, \"and that for two reasons. First, because I'm on the same side of the door as you are; secondly, because they're making such a noise inside, no one could possibly hear you.\"",
+      "words": 42,
+      "difficulty": "hard",
+      "score": 1.003,
+      "sourceId": "alices-adventures",
+      "paragraph": 220
+    },
+    {
+      "id": "alices-adventures-0134",
+      "text": "And certainly there was a most extraordinary noise going on within - a constant howling and sneezing, and every now and then a great crash, as if a dish or kettle had been broken to pieces.",
+      "words": 35,
+      "difficulty": "medium",
+      "score": 0.64,
+      "sourceId": "alices-adventures",
+      "paragraph": 220
+    },
+    {
+      "id": "alices-adventures-0135",
+      "text": "\"There might be some sense in your knocking,\" the Footman went on without attending to her, \"if we had the door between us. For instance, if you were inside, you might knock, and I could let you out, you know.\"",
+      "words": 40,
+      "difficulty": "medium",
+      "score": 0.646,
+      "sourceId": "alices-adventures",
+      "paragraph": 222
+    },
+    {
+      "id": "alices-adventures-0136",
+      "text": "At this moment the door of the house opened, and a large plate came skimming out, straight at the Footman's head: it just grazed his nose, and broke to pieces against one of the trees behind him.",
+      "words": 37,
+      "difficulty": "medium",
+      "score": 0.594,
+      "sourceId": "alices-adventures",
+      "paragraph": 224
+    },
+    {
+      "id": "alices-adventures-0137",
+      "text": "The Footman seemed to think this a good opportunity for repeating his remark, with variations. \"I shall sit here,\" he said, \"on and off, for days and days.\"",
+      "words": 28,
+      "difficulty": "hard",
+      "score": 1.12,
+      "sourceId": "alices-adventures",
+      "paragraph": 229
+    },
+    {
+      "id": "alices-adventures-0138",
+      "text": "The door led right into a large kitchen, which was full of smoke from one end to the other: the Duchess was sitting on a three-legged stool in the middle, nursing a baby; the cook was leaning over the fire, stirring a large cauldron which seemed to be full of soup.",
+      "words": 51,
+      "difficulty": "medium",
+      "score": 0.526,
+      "sourceId": "alices-adventures",
+      "paragraph": 233
+    },
+    {
+      "id": "alices-adventures-0139",
+      "text": "There was certainly too much of it in the air. Even the Duchess sneezed occasionally; and as for the baby, it was sneezing and howling alternately without a moment's pause.",
+      "words": 30,
+      "difficulty": "hard",
+      "score": 1.224,
+      "sourceId": "alices-adventures",
+      "paragraph": 235
+    },
+    {
+      "id": "alices-adventures-0140",
+      "text": "The only things in the kitchen that did not sneeze, were the cook, and a large cat which was sitting on the hearth and grinning from ear to ear.",
+      "words": 29,
+      "difficulty": "easy",
+      "score": 0.319,
+      "sourceId": "alices-adventures",
+      "paragraph": 235
+    },
+    {
+      "id": "alices-adventures-0141",
+      "text": "\"Please would you tell me,\" said Alice, a little timidly, for she was not quite sure whether it was good manners for her to speak first, \"why your cat grins like that?\"",
+      "words": 32,
+      "difficulty": "medium",
+      "score": 0.523,
+      "sourceId": "alices-adventures",
+      "paragraph": 236
+    },
+    {
+      "id": "alices-adventures-0142",
+      "text": "Alice did not at all like the tone of this remark, and thought it would be as well to introduce some other subject of conversation.",
+      "words": 25,
+      "difficulty": "easy",
+      "score": 0.393,
+      "sourceId": "alices-adventures",
+      "paragraph": 243
+    },
+    {
+      "id": "alices-adventures-0143",
+      "text": "While she was trying to fix on one, the cook took the cauldron of soup off the fire, and at once set to work throwing everything within her reach at the Duchess and the baby - the fire-irons came first; then followed a shower of saucepans, plates, and dishes.",
+      "words": 48,
+      "difficulty": "medium",
+      "score": 0.864,
+      "sourceId": "alices-adventures",
+      "paragraph": 243
+    },
+    {
+      "id": "alices-adventures-0144",
+      "text": "The Duchess took no notice of them even when they hit her; and the baby was howling so much already, that it was quite impossible to say whether the blows hurt it or not.",
+      "words": 34,
+      "difficulty": "easy",
+      "score": 0.182,
+      "sourceId": "alices-adventures",
+      "paragraph": 243
+    },
+    {
+      "id": "alices-adventures-0145",
+      "text": "\"Oh, please mind what you're doing!\" cried Alice, jumping up and down in an agony of terror. \"Oh, there goes his precious nose!\" as an unusually large saucepan flew close by it, and very nearly carried it off.",
+      "words": 38,
+      "difficulty": "hard",
+      "score": 0.948,
+      "sourceId": "alices-adventures",
+      "paragraph": 244
+    },
+    {
+      "id": "alices-adventures-0146",
+      "text": "\"Here! you may nurse it a bit, if you like!\" the Duchess said to Alice, flinging the baby at her as she spoke. \"I must go and get ready to play croquet with the Queen,\" and she hurried out of the room.",
+      "words": 42,
+      "difficulty": "easy",
+      "score": 0.181,
+      "sourceId": "alices-adventures",
+      "paragraph": 256
+    },
+    {
+      "id": "alices-adventures-0147",
+      "text": "Alice caught the baby with some difficulty, as it was a queer-shaped little creature, and held out its arms and legs in all directions, \"just like a star-fish,\" thought Alice.",
+      "words": 30,
+      "difficulty": "hard",
+      "score": 1.158,
+      "sourceId": "alices-adventures",
+      "paragraph": 257
+    },
+    {
+      "id": "alices-adventures-0148",
+      "text": "The poor little thing was snorting like a steam-engine when she caught it, and kept doubling itself up and straightening itself out again, so that altogether, for the first minute or two, it was as much as she could do to hold it.",
+      "words": 43,
+      "difficulty": "medium",
+      "score": 0.538,
+      "sourceId": "alices-adventures",
+      "paragraph": 257
+    },
+    {
+      "id": "alices-adventures-0149",
+      "text": "As soon as she had made out the proper way of nursing it, (which was to twist it up into a sort of knot, and then keep tight hold of its right ear and left foot, so as to prevent its undoing itself,) she carried it out into the open air.",
+      "words": 51,
+      "difficulty": "easy",
+      "score": -0.081,
+      "sourceId": "alices-adventures",
+      "paragraph": 258
+    },
+    {
+      "id": "alices-adventures-0150",
+      "text": "\"If I don't take this child away with me,\" thought Alice, \"they're sure to kill it in a day or two: wouldn't it be murder to leave it behind?\"",
+      "words": 29,
+      "difficulty": "easy",
+      "score": 0.437,
+      "sourceId": "alices-adventures",
+      "paragraph": 258
+    },
+    {
+      "id": "alices-adventures-0151",
+      "text": "She said the last words out loud, and the little thing grunted in reply (it had left off sneezing by this time). \"Don't grunt,\" said Alice; \"that's not at all a proper way of expressing yourself.\"",
+      "words": 36,
+      "difficulty": "hard",
+      "score": 0.963,
+      "sourceId": "alices-adventures",
+      "paragraph": 258
+    },
+    {
+      "id": "alices-adventures-0152",
+      "text": "There could be no doubt that it had a very turn-up nose, much more like a snout than a real nose; also its eyes were getting extremely small for a baby: altogether Alice did not like the look of the thing at all.",
+      "words": 43,
+      "difficulty": "easy",
+      "score": -0.078,
+      "sourceId": "alices-adventures",
+      "paragraph": 259
+    },
+    {
+      "id": "alices-adventures-0153",
+      "text": "Alice was just beginning to think to herself, \"Now, what am I to do with this creature when I get it home?\" when it grunted again, so violently, that she looked down into its face in some alarm.",
+      "words": 38,
+      "difficulty": "easy",
+      "score": 0.291,
+      "sourceId": "alices-adventures",
+      "paragraph": 261
+    },
+    {
+      "id": "alices-adventures-0154",
+      "text": "This time there could be no mistake about it: it was neither more nor less than a pig, and she felt that it would be quite absurd for her to carry it further.",
+      "words": 33,
+      "difficulty": "easy",
+      "score": -0.101,
+      "sourceId": "alices-adventures",
+      "paragraph": 261
+    },
+    {
+      "id": "alices-adventures-0155",
+      "text": "So she set the little creature down, and felt quite relieved to see it trot away quietly into the wood. \"If it had grown up,\" she said to herself, \"it would have made a dreadfully ugly child: but it makes rather a handsome pig, I think.\"",
+      "words": 46,
+      "difficulty": "medium",
+      "score": 0.525,
+      "sourceId": "alices-adventures",
+      "paragraph": 262
+    },
+    {
+      "id": "alices-adventures-0156",
+      "text": "And she began thinking over other children she knew, who might do very well as pigs, and was just saying to herself, \"if one only knew the right way to change them - \" when she was a little startled by seeing the Cheshire Cat sitting on a bough of a tree a few yards off.",
+      "words": 54,
+      "difficulty": "easy",
+      "score": 0.151,
+      "sourceId": "alices-adventures",
+      "paragraph": 262
+    },
+    {
+      "id": "alices-adventures-0157",
+      "text": "The Cat only grinned when it saw Alice. It looked good-natured, she thought: still it had very long claws and a great many teeth, so she felt that it ought to be treated with respect.",
+      "words": 35,
+      "difficulty": "easy",
+      "score": 0.433,
+      "sourceId": "alices-adventures",
+      "paragraph": 263
+    },
+    {
+      "id": "alices-adventures-0158",
+      "text": "\"Cheshire Puss,\" she began, rather timidly, as she did not at all know whether it would like the name: however, it only grinned a little wider.",
+      "words": 26,
+      "difficulty": "hard",
+      "score": 1.167,
+      "sourceId": "alices-adventures",
+      "paragraph": 264
+    },
+    {
+      "id": "alices-adventures-0159",
+      "text": "Alice was not much surprised at this, she was getting so used to queer things happening. While she was looking at the place where it had been, it suddenly appeared again.",
+      "words": 31,
+      "difficulty": "medium",
+      "score": 0.616,
+      "sourceId": "alices-adventures",
+      "paragraph": 284
+    },
+    {
+      "id": "alices-adventures-0160",
+      "text": "Alice waited a little, half expecting to see it again, but it did not appear, and after a minute or two she walked on in the direction in which the March Hare was said to live.",
+      "words": 36,
+      "difficulty": "easy",
+      "score": 0.083,
+      "sourceId": "alices-adventures",
+      "paragraph": 288
+    },
+    {
+      "id": "alices-adventures-0161",
+      "text": "\"I've seen hatters before,\" she said to herself; \"the March Hare will be much the most interesting, and perhaps as this is May it won't be raving mad - at least not so mad as it was in March.\"",
+      "words": 38,
+      "difficulty": "medium",
+      "score": 0.583,
+      "sourceId": "alices-adventures",
+      "paragraph": 288
+    },
+    {
+      "id": "alices-adventures-0162",
+      "text": "\"All right,\" said the Cat; and this time it vanished quite slowly, beginning with the end of the tail, and ending with the grin, which remained some time after the rest of it had gone.",
+      "words": 35,
+      "difficulty": "medium",
+      "score": 0.549,
+      "sourceId": "alices-adventures",
+      "paragraph": 291
+    },
+    {
+      "id": "alices-adventures-0163",
+      "text": "\"Well! I've often seen a cat without a grin,\" thought Alice; \"but a grin without a cat! It's the most curious thing I ever saw in my life!\"",
+      "words": 28,
+      "difficulty": "medium",
+      "score": 0.484,
+      "sourceId": "alices-adventures",
+      "paragraph": 292
+    },
+    {
+      "id": "alices-adventures-0164",
+      "text": "She had not gone much farther before she came in sight of the house of the March Hare: she thought it must be the right house, because the chimneys were shaped like ears and the roof was thatched with fur.",
+      "words": 40,
+      "difficulty": "medium",
+      "score": 0.471,
+      "sourceId": "alices-adventures",
+      "paragraph": 293
+    },
+    {
+      "id": "alices-adventures-0165",
+      "text": "There was a table set out under a tree in front of the house, and the March Hare and the Hatter were having tea at it: a Dormouse was sitting between them, fast asleep, and the other two were using it as a cushion, resting their elbows on it, and talking over its head.",
+      "words": 54,
+      "difficulty": "easy",
+      "score": 0.375,
+      "sourceId": "alices-adventures",
+      "paragraph": 294
+    },
+    {
+      "id": "alices-adventures-0166",
+      "text": "The table was a large one, but the three were all crowded together at one corner of it: \"No room! No room!\" they cried out when they saw Alice coming.",
+      "words": 30,
+      "difficulty": "easy",
+      "score": 0.167,
+      "sourceId": "alices-adventures",
+      "paragraph": 295
+    },
+    {
+      "id": "alices-adventures-0167",
+      "text": "\"Your hair wants cutting,\" said the Hatter. He had been looking at Alice for some time with great curiosity, and this was his first speech.",
+      "words": 25,
+      "difficulty": "medium",
+      "score": 0.832,
+      "sourceId": "alices-adventures",
+      "paragraph": 302
+    },
+    {
+      "id": "alices-adventures-0168",
+      "text": "\"Not the same thing a bit!\" said the Hatter. \"You might just as well say that 'I see what I eat' is the same thing as 'I eat what I see'!\"",
+      "words": 31,
+      "difficulty": "easy",
+      "score": 0.339,
+      "sourceId": "alices-adventures",
+      "paragraph": 310
+    },
+    {
+      "id": "alices-adventures-0169",
+      "text": "\"You might just as well say,\" added the March Hare, \"that 'I like what I get' is the same thing as 'I get what I like'!\"",
+      "words": 26,
+      "difficulty": "medium",
+      "score": 0.794,
+      "sourceId": "alices-adventures",
+      "paragraph": 311
+    },
+    {
+      "id": "alices-adventures-0170",
+      "text": "\"You might just as well say,\" added the Dormouse, who seemed to be talking in his sleep, \"that 'I breathe when I sleep' is the same thing as 'I sleep when I breathe'!\"",
+      "words": 33,
+      "difficulty": "medium",
+      "score": 0.913,
+      "sourceId": "alices-adventures",
+      "paragraph": 312
+    },
+    {
+      "id": "alices-adventures-0171",
+      "text": "\"It is the same thing with you,\" said the Hatter, and here the conversation dropped, and the party sat silent for a minute, while Alice thought over all she could remember about ravens and writing-desks, which wasn't much.",
+      "words": 38,
+      "difficulty": "hard",
+      "score": 1.071,
+      "sourceId": "alices-adventures",
+      "paragraph": 313
+    },
+    {
+      "id": "alices-adventures-0172",
+      "text": "The Hatter was the first to break the silence. \"What day of the month is it?\" he said, turning to Alice: he had taken his watch out of his pocket, and was looking at it uneasily, shaking it every now and then, and holding it to his ear.",
+      "words": 48,
+      "difficulty": "easy",
+      "score": 0.14,
+      "sourceId": "alices-adventures",
+      "paragraph": 314
+    },
+    {
+      "id": "alices-adventures-0173",
+      "text": "The March Hare took the watch and looked at it gloomily: then he dipped it into his cup of tea, and looked at it again: but he could think of nothing better to say than his first remark, \"It was the best butter, you know.\"",
+      "words": 45,
+      "difficulty": "easy",
+      "score": 0.405,
+      "sourceId": "alices-adventures",
+      "paragraph": 319
+    },
+    {
+      "id": "alices-adventures-0174",
+      "text": "Alice had been looking over his shoulder with some curiosity. \"What a funny watch!\" she remarked. \"It tells the day of the month, and doesn't tell what o'clock it is!\"",
+      "words": 30,
+      "difficulty": "hard",
+      "score": 1.059,
+      "sourceId": "alices-adventures",
+      "paragraph": 320
+    },
+    {
+      "id": "alices-adventures-0175",
+      "text": "Alice felt dreadfully puzzled, The Hatter's remark seemed to have no sort of meaning in it, and yet it was certainly English. \"I don't quite understand you,\" she said, as politely as she could.",
+      "words": 34,
+      "difficulty": "hard",
+      "score": 1.23,
+      "sourceId": "alices-adventures",
+      "paragraph": 324
+    },
+    {
+      "id": "alices-adventures-0176",
+      "text": "Alice sighed wearily. \"I think you might do something better with the time,\" she said, \"than waste it in asking riddles that have no answers.\"",
+      "words": 25,
+      "difficulty": "hard",
+      "score": 1.363,
+      "sourceId": "alices-adventures",
+      "paragraph": 331
+    },
+    {
+      "id": "alices-adventures-0177",
+      "text": "For instance, suppose it were nine o'clock in the morning, just time to begin lessons: you'd only have to whisper a hint to Time, and round goes the clock in a twinkling!",
+      "words": 32,
+      "difficulty": "medium",
+      "score": 0.868,
+      "sourceId": "alices-adventures",
+      "paragraph": 336
+    },
+    {
+      "id": "alices-adventures-0178",
+      "text": "Here the Dormouse shook itself, and began singing in its sleep \"Twinkle, twinkle, twinkle, twinkle - \" and went on so long that they had to pinch it to make it stop.",
+      "words": 30,
+      "difficulty": "hard",
+      "score": 1.085,
+      "sourceId": "alices-adventures",
+      "paragraph": 347
+    },
+    {
+      "id": "alices-adventures-0179",
+      "text": "Alice tried to fancy to herself what such an extraordinary way of living would be like, but it puzzled her too much, so she went on: \"But why did they live at the bottom of a well?\"",
+      "words": 37,
+      "difficulty": "easy",
+      "score": -0.031,
+      "sourceId": "alices-adventures",
+      "paragraph": 368
+    },
+    {
+      "id": "alices-adventures-0180",
+      "text": "Alice did not quite know what to say to this: so she helped herself to some tea and bread-and-butter, and then turned to the Dormouse, and repeated her question.",
+      "words": 29,
+      "difficulty": "medium",
+      "score": 0.56,
+      "sourceId": "alices-adventures",
+      "paragraph": 374
+    },
+    {
+      "id": "alices-adventures-0181",
+      "text": "\"There's no such thing!\" Alice was beginning very angrily, but the Hatter and the March Hare went \"Sh! sh!\" and the Dormouse sulkily remarked, \"If you can't be civil, you'd better finish the story for yourself.\"",
+      "words": 36,
+      "difficulty": "hard",
+      "score": 2.003,
+      "sourceId": "alices-adventures",
+      "paragraph": 376
+    },
+    {
+      "id": "alices-adventures-0182",
+      "text": "He moved on as he spoke, and the Dormouse followed him: the March Hare moved into the Dormouse's place, and Alice rather unwillingly took the place of the March Hare.",
+      "words": 30,
+      "difficulty": "hard",
+      "score": 1.235,
+      "sourceId": "alices-adventures",
+      "paragraph": 382
+    },
+    {
+      "id": "alices-adventures-0183",
+      "text": "The Hatter was the only one who got any advantage from the change: and Alice was a good deal worse off than before, as the March Hare had just upset the milk-jug into his plate.",
+      "words": 35,
+      "difficulty": "medium",
+      "score": 0.47,
+      "sourceId": "alices-adventures",
+      "paragraph": 382
+    },
+    {
+      "id": "alices-adventures-0184",
+      "text": "Alice did not wish to offend the Dormouse again, so she began very cautiously: \"But I don't understand. Where did they draw the treacle from?\"",
+      "words": 25,
+      "difficulty": "hard",
+      "score": 1.253,
+      "sourceId": "alices-adventures",
+      "paragraph": 383
+    },
+    {
+      "id": "alices-adventures-0185",
+      "text": "\"You can draw water out of a water-well,\" said the Hatter; \"so I should think you could draw treacle out of a treacle-well - eh, stupid?\"",
+      "words": 25,
+      "difficulty": "medium",
+      "score": 0.899,
+      "sourceId": "alices-adventures",
+      "paragraph": 384
+    },
+    {
+      "id": "alices-adventures-0186",
+      "text": "\"At any rate I'll never go there again!\" said Alice as she picked her way through the wood. \"It's the stupidest tea-party I ever was at in all my life!\"",
+      "words": 30,
+      "difficulty": "easy",
+      "score": 0.361,
+      "sourceId": "alices-adventures",
+      "paragraph": 396
+    },
+    {
+      "id": "alices-adventures-0187",
+      "text": "Once more she found herself in the long hall, and close to the little glass table. \"Now, I'll manage better this time,\" she said to herself, and began by taking the little golden key, and unlocking the door that led into the garden.",
+      "words": 43,
+      "difficulty": "medium",
+      "score": 0.58,
+      "sourceId": "alices-adventures",
+      "paragraph": 398
+    },
+    {
+      "id": "alices-adventures-0188",
+      "text": "Then she went to work nibbling at the mushroom (she had kept a piece of it in her pocket) till she was about a foot high: then she walked down the little passage: and then - she found herself at last in the beautiful garden, among the bright flower-beds and the cool fountains.",
+      "words": 52,
+      "difficulty": "medium",
+      "score": 0.466,
+      "sourceId": "alices-adventures",
+      "paragraph": 398
+    },
+    {
+      "id": "alices-adventures-0189",
+      "text": "A large rose-tree stood near the entrance of the garden: the roses growing on it were white, but there were three gardeners at it, busily painting them red.",
+      "words": 28,
+      "difficulty": "medium",
+      "score": 0.81,
+      "sourceId": "alices-adventures",
+      "paragraph": 399
+    },
+    {
+      "id": "alices-adventures-0190",
+      "text": "Seven flung down his brush, and had just begun \"Well, of all the unjust things - \" when his eye chanced to fall upon Alice, as she stood watching them, and he checked himself suddenly: the others looked round also, and all of them bowed low.",
+      "words": 44,
+      "difficulty": "medium",
+      "score": 0.783,
+      "sourceId": "alices-adventures",
+      "paragraph": 406
+    },
+    {
+      "id": "alices-adventures-0191",
+      "text": "So you see, Miss, we're doing our best, afore she comes, to - \" At this moment Five, who had been anxiously looking across the garden, called out \"The Queen!",
+      "words": 28,
+      "difficulty": "hard",
+      "score": 1.036,
+      "sourceId": "alices-adventures",
+      "paragraph": 408
+    },
+    {
+      "id": "alices-adventures-0192",
+      "text": "First came ten soldiers carrying clubs; these were all shaped like the three gardeners, oblong and flat, with their hands and feet at the corners: next the ten courtiers; these were ornamented all over with diamonds, and walked two and two, as the soldiers did.",
+      "words": 45,
+      "difficulty": "hard",
+      "score": 1.484,
+      "sourceId": "alices-adventures",
+      "paragraph": 409
+    },
+    {
+      "id": "alices-adventures-0193",
+      "text": "After these came the royal children; there were ten of them, and the little dears came jumping merrily along hand in hand, in couples: they were all ornamented with hearts.",
+      "words": 30,
+      "difficulty": "hard",
+      "score": 1.291,
+      "sourceId": "alices-adventures",
+      "paragraph": 409
+    },
+    {
+      "id": "alices-adventures-0194",
+      "text": "Next came the guests, mostly Kings and Queens, and among them Alice recognised the White Rabbit: it was talking in a hurried nervous manner, smiling at everything that was said, and went by without noticing her.",
+      "words": 36,
+      "difficulty": "hard",
+      "score": 1.307,
+      "sourceId": "alices-adventures",
+      "paragraph": 409
+    },
+    {
+      "id": "alices-adventures-0195",
+      "text": "Then followed the Knave of Hearts, carrying the King's crown on a crimson velvet cushion; and, last of all this grand procession, came THE KING AND QUEEN OF HEARTS.",
+      "words": 29,
+      "difficulty": "hard",
+      "score": 1.511,
+      "sourceId": "alices-adventures",
+      "paragraph": 409
+    },
+    {
+      "id": "alices-adventures-0196",
+      "text": "Alice was rather doubtful whether she ought not to lie down on her face like the three gardeners, but she could not remember ever having heard of such a rule at processions; \"and besides, what would be the use of a procession,\" thought she, \"if people had all to lie down upon their faces, so that they couldn't see it?\"",
+      "words": 60,
+      "difficulty": "medium",
+      "score": 0.642,
+      "sourceId": "alices-adventures",
+      "paragraph": 410
+    },
+    {
+      "id": "alices-adventures-0197",
+      "text": "When the procession came opposite to Alice, they all stopped and looked at her, and the Queen said severely \"Who is this?\" She said it to the Knave of Hearts, who only bowed and smiled in reply.",
+      "words": 37,
+      "difficulty": "medium",
+      "score": 0.566,
+      "sourceId": "alices-adventures",
+      "paragraph": 411
+    },
+    {
+      "id": "alices-adventures-0198",
+      "text": "\"Get up!\" said the Queen, in a shrill, loud voice, and the three gardeners instantly jumped up, and began bowing to the King, the Queen, the royal children, and everybody else.",
+      "words": 31,
+      "difficulty": "hard",
+      "score": 1.167,
+      "sourceId": "alices-adventures",
+      "paragraph": 421
+    },
+    {
+      "id": "alices-adventures-0199",
+      "text": "\"Leave off that!\" screamed the Queen. \"You make me giddy.\" And then, turning to the rose-tree, she went on, \"What have you been doing here?\"",
+      "words": 25,
+      "difficulty": "hard",
+      "score": 0.954,
+      "sourceId": "alices-adventures",
+      "paragraph": 422
+    },
+    {
+      "id": "alices-adventures-0200",
+      "text": "\"I see!\" said the Queen, who had meanwhile been examining the roses. \"Off with their heads!\" and the procession moved on, three of the soldiers remaining behind to execute the unfortunate gardeners, who ran to Alice for protection.",
+      "words": 38,
+      "difficulty": "hard",
+      "score": 1.881,
+      "sourceId": "alices-adventures",
+      "paragraph": 424
+    },
+    {
+      "id": "alices-adventures-0201",
+      "text": "\"You shan't be beheaded!\" said Alice, and she put them into a large flower-pot that stood near. The three soldiers wandered about for a minute or two, looking for them, and then quietly marched off after the others.",
+      "words": 38,
+      "difficulty": "hard",
+      "score": 1.06,
+      "sourceId": "alices-adventures",
+      "paragraph": 425
+    },
+    {
+      "id": "alices-adventures-0202",
+      "text": "\"It's - it's a very fine day!\" said a timid voice at her side. She was walking by the White Rabbit, who was peeping anxiously into her face.",
+      "words": 27,
+      "difficulty": "medium",
+      "score": 0.702,
+      "sourceId": "alices-adventures",
+      "paragraph": 432
+    },
+    {
+      "id": "alices-adventures-0203",
+      "text": "\"Hush! Hush!\" said the Rabbit in a low, hurried tone. He looked anxiously over his shoulder as he spoke, and then raised himself upon tiptoe, put his mouth close to her ear, and whispered \"She's under sentence of execution.\"",
+      "words": 39,
+      "difficulty": "hard",
+      "score": 1.38,
+      "sourceId": "alices-adventures",
+      "paragraph": 434
+    },
+    {
+      "id": "alices-adventures-0204",
+      "text": "\"Get to your places!\" shouted the Queen in a voice of thunder, and people began running about in all directions, tumbling up against each other; however, they got settled down in a minute or two, and the game began.",
+      "words": 39,
+      "difficulty": "medium",
+      "score": 0.757,
+      "sourceId": "alices-adventures",
+      "paragraph": 439
+    },
+    {
+      "id": "alices-adventures-0205",
+      "text": "Alice thought she had never seen such a curious croquet-ground in her life; it was all ridges and furrows; the balls were live hedgehogs, the mallets live flamingoes, and the soldiers had to double themselves up and to stand on their hands and feet, to make the arches.",
+      "words": 48,
+      "difficulty": "hard",
+      "score": 0.999,
+      "sourceId": "alices-adventures",
+      "paragraph": 439
+    },
+    {
+      "id": "alices-adventures-0206",
+      "text": "The players all played at once without waiting for turns, quarrelling all the while, and fighting for the hedgehogs; and in a very short time the Queen was in a furious passion, and went stamping about, and shouting \"Off with his head!\" or \"Off with her head!\" about once in a minute.",
+      "words": 52,
+      "difficulty": "hard",
+      "score": 0.934,
+      "sourceId": "alices-adventures",
+      "paragraph": 441
+    },
+    {
+      "id": "alices-adventures-0207",
+      "text": "Alice waited till the eyes appeared, and then nodded. \"It's no use speaking to it,\" she thought, \"till its ears have come, or at least one of them.\"",
+      "words": 28,
+      "difficulty": "medium",
+      "score": 0.615,
+      "sourceId": "alices-adventures",
+      "paragraph": 445
+    },
+    {
+      "id": "alices-adventures-0208",
+      "text": "In another minute the whole head appeared, and then Alice put down her flamingo, and began an account of the game, feeling very glad she had someone to listen to her.",
+      "words": 31,
+      "difficulty": "medium",
+      "score": 0.493,
+      "sourceId": "alices-adventures",
+      "paragraph": 445
+    },
+    {
+      "id": "alices-adventures-0209",
+      "text": "\"Not at all,\" said Alice: \"she's so extremely - \" Just then she noticed that the Queen was close behind her, listening: so she went on, \" - likely to win, that it's hardly worth while finishing the game.\"",
+      "words": 35,
+      "difficulty": "hard",
+      "score": 1.205,
+      "sourceId": "alices-adventures",
+      "paragraph": 448
+    },
+    {
+      "id": "alices-adventures-0210",
+      "text": "\"Well, it must be removed,\" said the King very decidedly, and he called the Queen, who was passing at the moment, \"My dear! I wish you would have this cat removed!\"",
+      "words": 31,
+      "difficulty": "medium",
+      "score": 0.535,
+      "sourceId": "alices-adventures",
+      "paragraph": 456
+    },
+    {
+      "id": "alices-adventures-0211",
+      "text": "Alice thought she might as well go back, and see how the game was going on, as she heard the Queen's voice in the distance, screaming with passion.",
+      "words": 28,
+      "difficulty": "medium",
+      "score": 0.497,
+      "sourceId": "alices-adventures",
+      "paragraph": 459
+    },
+    {
+      "id": "alices-adventures-0212",
+      "text": "She had already heard her sentence three of the players to be executed for having missed their turns, and she did not like the look of things at all, as the game was in such confusion that she never knew whether it was her turn or not.",
+      "words": 47,
+      "difficulty": "easy",
+      "score": 0.204,
+      "sourceId": "alices-adventures",
+      "paragraph": 459
+    },
+    {
+      "id": "alices-adventures-0213",
+      "text": "The hedgehog was engaged in a fight with another hedgehog, which seemed to Alice an excellent opportunity for croqueting one of them with the other: the only difficulty was, that her flamingo was gone across to the other side of the garden, where Alice could see it trying in a helpless sort of way to fly up into a tree.",
+      "words": 60,
+      "difficulty": "medium",
+      "score": 0.489,
+      "sourceId": "alices-adventures",
+      "paragraph": 460
+    },
+    {
+      "id": "alices-adventures-0214",
+      "text": "By the time she had caught the flamingo and brought it back, the fight was over, and both the hedgehogs were out of sight: \"but it doesn't matter much,\" thought Alice, \"as all the arches are gone from this side of the ground.\"",
+      "words": 43,
+      "difficulty": "medium",
+      "score": 0.612,
+      "sourceId": "alices-adventures",
+      "paragraph": 461
+    },
+    {
+      "id": "alices-adventures-0215",
+      "text": "So she tucked it away under her arm, that it might not escape again, and went back for a little more conversation with her friend.",
+      "words": 25,
+      "difficulty": "easy",
+      "score": 0.271,
+      "sourceId": "alices-adventures",
+      "paragraph": 461
+    },
+    {
+      "id": "alices-adventures-0216",
+      "text": "When she got back to the Cheshire Cat, she was surprised to find quite a large crowd collected round it: there was a dispute going on between the executioner, the King, and the Queen, who were all talking at once, while all the rest were quite silent, and looked very uncomfortable.",
+      "words": 51,
+      "difficulty": "medium",
+      "score": 0.77,
+      "sourceId": "alices-adventures",
+      "paragraph": 462
+    },
+    {
+      "id": "alices-adventures-0217",
+      "text": "The moment Alice appeared, she was appealed to by all three to settle the question, and they repeated their arguments to her, though, as they all spoke at once, she found it very hard indeed to make out exactly what they said.",
+      "words": 42,
+      "difficulty": "medium",
+      "score": 0.542,
+      "sourceId": "alices-adventures",
+      "paragraph": 463
+    },
+    {
+      "id": "alices-adventures-0218",
+      "text": "The executioner's argument was, that you couldn't cut off a head unless there was a body to cut it off from: that he had never had to do such a thing before, and he wasn't going to begin at his time of life.",
+      "words": 43,
+      "difficulty": "easy",
+      "score": 0.161,
+      "sourceId": "alices-adventures",
+      "paragraph": 464
+    },
+    {
+      "id": "alices-adventures-0219",
+      "text": "The Cat's head began fading away the moment he was gone, and, by the time he had come back with the Duchess, it had entirely disappeared; so the King and the executioner ran wildly up and down looking for it, while the rest of the party went back to the game.",
+      "words": 51,
+      "difficulty": "easy",
+      "score": 0.286,
+      "sourceId": "alices-adventures",
+      "paragraph": 469
+    },
+    {
+      "id": "alices-adventures-0220",
+      "text": "\"You can't think how glad I am to see you again, you dear old thing!\" said the Duchess, as she tucked her arm affectionately into Alice's, and they walked off together.",
+      "words": 31,
+      "difficulty": "medium",
+      "score": 0.852,
+      "sourceId": "alices-adventures",
+      "paragraph": 470
+    },
+    {
+      "id": "alices-adventures-0221",
+      "text": "Soup does very well without - Maybe it's always pepper that makes people hot-tempered,\" she went on, very much pleased at having found out a new kind of rule, \"and vinegar that makes them sour - and camomile that makes them bitter - and - and barley-sugar and such things that make children sweet-tempered.",
+      "words": 50,
+      "difficulty": "hard",
+      "score": 1.408,
+      "sourceId": "alices-adventures",
+      "paragraph": 472
+    },
+    {
+      "id": "alices-adventures-0222",
+      "text": "\"Tut, tut, child!\" said the Duchess. \"Everything's got a moral, if only you can find it.\" And she squeezed herself up closer to Alice's side as she spoke.",
+      "words": 28,
+      "difficulty": "hard",
+      "score": 1.537,
+      "sourceId": "alices-adventures",
+      "paragraph": 475
+    },
+    {
+      "id": "alices-adventures-0223",
+      "text": "Alice did not much like keeping so close to her: first, because the Duchess was very ugly; and secondly, because she was exactly the right height to rest her chin upon Alice's shoulder, and it was an uncomfortably sharp chin.",
+      "words": 40,
+      "difficulty": "medium",
+      "score": 0.911,
+      "sourceId": "alices-adventures",
+      "paragraph": 476
+    },
+    {
+      "id": "alices-adventures-0224",
+      "text": "\"I think I should understand that better,\" Alice said very politely, \"if I had it written down: but I can't quite follow it as you say it.\"",
+      "words": 27,
+      "difficulty": "easy",
+      "score": 0.447,
+      "sourceId": "alices-adventures",
+      "paragraph": 491
+    },
+    {
+      "id": "alices-adventures-0225",
+      "text": "\"A cheap sort of present!\" thought Alice. \"I'm glad they don't give birthday presents like that!\" But she did not venture to say it out loud.",
+      "words": 26,
+      "difficulty": "hard",
+      "score": 1.125,
+      "sourceId": "alices-adventures",
+      "paragraph": 495
+    },
+    {
+      "id": "alices-adventures-0226",
+      "text": "But here, to Alice's great surprise, the Duchess's voice died away, even in the middle of her favourite word 'moral,' and the arm that was linked into hers began to tremble.",
+      "words": 31,
+      "difficulty": "hard",
+      "score": 1.195,
+      "sourceId": "alices-adventures",
+      "paragraph": 499
+    },
+    {
+      "id": "alices-adventures-0227",
+      "text": "\"Let's go on with the game,\" the Queen said to Alice; and Alice was too much frightened to say a word, but slowly followed her back to the croquet-ground.",
+      "words": 29,
+      "difficulty": "medium",
+      "score": 0.486,
+      "sourceId": "alices-adventures",
+      "paragraph": 503
+    },
+    {
+      "id": "alices-adventures-0228",
+      "text": "The other guests had taken advantage of the Queen's absence, and were resting in the shade: however, the moment they saw her, they hurried back to the game, the Queen merely remarking that a moment's delay would cost them their lives.",
+      "words": 41,
+      "difficulty": "hard",
+      "score": 1.239,
+      "sourceId": "alices-adventures",
+      "paragraph": 504
+    },
+    {
+      "id": "alices-adventures-0229",
+      "text": "All the time they were playing the Queen never left off quarrelling with the other players, and shouting \"Off with his head!\" or \"Off with her head!\"",
+      "words": 27,
+      "difficulty": "hard",
+      "score": 1.011,
+      "sourceId": "alices-adventures",
+      "paragraph": 505
+    },
+    {
+      "id": "alices-adventures-0230",
+      "text": "Those whom she sentenced were taken into custody by the soldiers, who of course had to leave off being arches to do this, so that by the end of half an hour or so there were no arches left, and all the players, except the King, the Queen, and Alice, were in custody and under sentence of execution.",
+      "words": 58,
+      "difficulty": "medium",
+      "score": 0.551,
+      "sourceId": "alices-adventures",
+      "paragraph": 505
+    },
+    {
+      "id": "alices-adventures-0231",
+      "text": "As they walked off together, Alice heard the King say in a low voice, to the company generally, \"You are all pardoned.\" \"Come, that's a good thing!\" she said to herself, for she had felt quite unhappy at the number of executions the Queen had ordered.",
+      "words": 46,
+      "difficulty": "medium",
+      "score": 0.666,
+      "sourceId": "alices-adventures",
+      "paragraph": 511
+    },
+    {
+      "id": "alices-adventures-0232",
+      "text": "The Gryphon sat up and rubbed its eyes: then it watched the Queen till she was out of sight: then it chuckled. \"What fun!\" said the Gryphon, half to itself, half to Alice.",
+      "words": 33,
+      "difficulty": "medium",
+      "score": 0.72,
+      "sourceId": "alices-adventures",
+      "paragraph": 513
+    },
+    {
+      "id": "alices-adventures-0233",
+      "text": "They had not gone far before they saw the Mock Turtle in the distance, sitting sad and lonely on a little ledge of rock, and, as they came nearer, Alice could hear him sighing as if his heart would break.",
+      "words": 40,
+      "difficulty": "easy",
+      "score": 0.345,
+      "sourceId": "alices-adventures",
+      "paragraph": 517
+    },
+    {
+      "id": "alices-adventures-0234",
+      "text": "\"I'll tell it her,\" said the Mock Turtle in a deep, hollow tone: \"sit down, both of you, and don't speak a word till I've finished.\"",
+      "words": 26,
+      "difficulty": "medium",
+      "score": 0.746,
+      "sourceId": "alices-adventures",
+      "paragraph": 520
+    },
+    {
+      "id": "alices-adventures-0235",
+      "text": "So they sat down, and nobody spoke for some minutes. Alice thought to herself, \"I don't see how he can ever finish, if he doesn't begin.\"",
+      "words": 26,
+      "difficulty": "medium",
+      "score": 0.726,
+      "sourceId": "alices-adventures",
+      "paragraph": 521
+    },
+    {
+      "id": "alices-adventures-0236",
+      "text": "These words were followed by a very long silence, broken only by an occasional exclamation of \"Hjckrrh!\" from the Gryphon, and the constant heavy sobbing of the Mock Turtle.",
+      "words": 29,
+      "difficulty": "hard",
+      "score": 1.664,
+      "sourceId": "alices-adventures",
+      "paragraph": 523
+    },
+    {
+      "id": "alices-adventures-0237",
+      "text": "Alice was very nearly getting up and saying, \"Thank you, sir, for your interesting story,\" but she could not help thinking there must be more to come, so she sat still and said nothing.",
+      "words": 34,
+      "difficulty": "medium",
+      "score": 0.468,
+      "sourceId": "alices-adventures",
+      "paragraph": 523
+    },
+    {
+      "id": "alices-adventures-0238",
+      "text": "\"You ought to be ashamed of yourself for asking such a simple question,\" added the Gryphon; and then they both sat silent and looked at poor Alice, who felt ready to sink into the earth.",
+      "words": 35,
+      "difficulty": "medium",
+      "score": 0.465,
+      "sourceId": "alices-adventures",
+      "paragraph": 527
+    },
+    {
+      "id": "alices-adventures-0239",
+      "text": "Alice did not feel encouraged to ask any more questions about it, so she turned to the Mock Turtle, and said \"What else had you to learn?\"",
+      "words": 27,
+      "difficulty": "medium",
+      "score": 0.459,
+      "sourceId": "alices-adventures",
+      "paragraph": 547
+    },
+    {
+      "id": "alices-adventures-0240",
+      "text": "\"Well, there was Mystery,\" the Mock Turtle replied, counting off the subjects on his flappers, \" - Mystery, ancient and modern, with Seaography: then Drawling - the Drawling-master was an old conger-eel, that used to come once a week: he taught us Drawling, Stretching, and Fainting in Coils.\"",
+      "words": 45,
+      "difficulty": "hard",
+      "score": 2.185,
+      "sourceId": "alices-adventures",
+      "paragraph": 548
+    },
+    {
+      "id": "alices-adventures-0241",
+      "text": "This was quite a new idea to Alice, and she thought it over a little before she made her next remark. \"Then the eleventh day must have been a holiday?\"",
+      "words": 30,
+      "difficulty": "easy",
+      "score": 0.331,
+      "sourceId": "alices-adventures",
+      "paragraph": 558
+    },
+    {
+      "id": "alices-adventures-0242",
+      "text": "The Mock Turtle sighed deeply, and drew the back of one flapper across his eyes. He looked at Alice, and tried to speak, but for a minute or two sobs choked his voice.",
+      "words": 33,
+      "difficulty": "medium",
+      "score": 0.584,
+      "sourceId": "alices-adventures",
+      "paragraph": 562
+    },
+    {
+      "id": "alices-adventures-0243",
+      "text": "\"Same as if he had a bone in his throat,\" said the Gryphon: and it set to work shaking him and punching him in the back.",
+      "words": 26,
+      "difficulty": "easy",
+      "score": 0.14,
+      "sourceId": "alices-adventures",
+      "paragraph": 562
+    },
+    {
+      "id": "alices-adventures-0244",
+      "text": "\"You may not have lived much under the sea - \" (\"I haven't,\" said Alice) - \"and perhaps you were never even introduced to a lobster - \" (Alice began to say \"I once tasted - \" but checked herself hastily, and said \"No, never\") \" - so you can have no idea what a delightful thing a Lobster Quadrille is!\"",
+      "words": 52,
+      "difficulty": "hard",
+      "score": 1.238,
+      "sourceId": "alices-adventures",
+      "paragraph": 563
+    },
+    {
+      "id": "alices-adventures-0245",
+      "text": "\"Back to land again, and that's all the first figure,\" said the Mock Turtle, suddenly dropping his voice; and the two creatures, who had been jumping about like mad things all this time, sat down again very sadly and quietly, and looked at Alice.",
+      "words": 44,
+      "difficulty": "hard",
+      "score": 0.974,
+      "sourceId": "alices-adventures",
+      "paragraph": 578
+    },
+    {
+      "id": "alices-adventures-0246",
+      "text": "They are waiting on the shingle - will you come and join the dance? Will you, won't you, will you, won't you, will you join the dance?",
+      "words": 26,
+      "difficulty": "medium",
+      "score": 0.472,
+      "sourceId": "alices-adventures",
+      "paragraph": 585
+    },
+    {
+      "id": "alices-adventures-0247",
+      "text": "\"You can really have no notion how delightful it will be When they take us up and throw us, with the lobsters, out to sea!\"",
+      "words": 25,
+      "difficulty": "easy",
+      "score": 0.207,
+      "sourceId": "alices-adventures",
+      "paragraph": 586
+    },
+    {
+      "id": "alices-adventures-0248",
+      "text": "But the snail replied \"Too far, too far!\" and gave a look askance - Said he thanked the whiting kindly, but he would not join the dance.",
+      "words": 26,
+      "difficulty": "medium",
+      "score": 0.738,
+      "sourceId": "alices-adventures",
+      "paragraph": 586
+    },
+    {
+      "id": "alices-adventures-0249",
+      "text": "Would not, could not, would not, could not, would not join the dance. Would not, could not, would not, could not, could not join the dance.",
+      "words": 26,
+      "difficulty": "medium",
+      "score": 0.519,
+      "sourceId": "alices-adventures",
+      "paragraph": 586
+    },
+    {
+      "id": "alices-adventures-0250",
+      "text": "\"Thank you, it's a very interesting dance to watch,\" said Alice, feeling very glad that it was over at last: \"and I do so like that curious song about the whiting!\"",
+      "words": 31,
+      "difficulty": "medium",
+      "score": 0.636,
+      "sourceId": "alices-adventures",
+      "paragraph": 588
+    },
+    {
+      "id": "alices-adventures-0251",
+      "text": "\"I don't know where Dinn may be,\" said the Mock Turtle, \"but if you've seen them so often, of course you know what they're like.\"",
+      "words": 25,
+      "difficulty": "hard",
+      "score": 1.133,
+      "sourceId": "alices-adventures",
+      "paragraph": 591
+    },
+    {
+      "id": "alices-adventures-0252",
+      "text": "\"You're wrong about the crumbs,\" said the Mock Turtle: \"crumbs would all wash off in the sea. But they have their tails in their mouths; and the reason is - \" here the Mock Turtle yawned and shut his eyes. - \"Tell her about the reason and all that,\" he said to the Gryphon.",
+      "words": 51,
+      "difficulty": "hard",
+      "score": 1.053,
+      "sourceId": "alices-adventures",
+      "paragraph": 593
+    },
+    {
+      "id": "alices-adventures-0253",
+      "text": "\"I could tell you my adventures - beginning from this morning,\" said Alice a little timidly: \"but it's no use going back to yesterday, because I was a different person then.\"",
+      "words": 30,
+      "difficulty": "hard",
+      "score": 1.075,
+      "sourceId": "alices-adventures",
+      "paragraph": 611
+    },
+    {
+      "id": "alices-adventures-0254",
+      "text": "So Alice began telling them her adventures from the time when she first saw the White Rabbit. She was a little nervous about it just at first, the two creatures got so close to her, one on each side, and opened their eyes and mouths so very wide, but she gained courage as she went on.",
+      "words": 56,
+      "difficulty": "easy",
+      "score": 0.118,
+      "sourceId": "alices-adventures",
+      "paragraph": 614
+    },
+    {
+      "id": "alices-adventures-0255",
+      "text": "Her listeners were perfectly quiet till she got to the part about her repeating \"You are old, Father William,\" to the Caterpillar, and the words all coming different, and then the Mock Turtle drew a long breath, and said \"That's very curious.\"",
+      "words": 42,
+      "difficulty": "hard",
+      "score": 1.181,
+      "sourceId": "alices-adventures",
+      "paragraph": 614
+    },
+    {
+      "id": "alices-adventures-0256",
+      "text": "\"It all came different!\" the Mock Turtle repeated thoughtfully. \"I should like to hear her try and repeat something now. Tell her to begin.\" He looked at the Gryphon as if he thought it had some kind of authority over Alice.",
+      "words": 41,
+      "difficulty": "medium",
+      "score": 0.909,
+      "sourceId": "alices-adventures",
+      "paragraph": 616
+    },
+    {
+      "id": "alices-adventures-0257",
+      "text": "\"'Tis the voice of the Lobster; I heard him declare, \"You have baked me too brown, I must sugar my hair.\" As a duck with its eyelids, so he with his nose Trims his belt and his buttons, and turns out his toes.\"",
+      "words": 43,
+      "difficulty": "medium",
+      "score": 0.86,
+      "sourceId": "alices-adventures",
+      "paragraph": 619
+    },
+    {
+      "id": "alices-adventures-0258",
+      "text": "\"What is the use of repeating all that stuff,\" the Mock Turtle interrupted, \"if you don't explain it as you go on? It's by far the most confusing thing I ever heard!\"",
+      "words": 32,
+      "difficulty": "medium",
+      "score": 0.84,
+      "sourceId": "alices-adventures",
+      "paragraph": 630
+    },
+    {
+      "id": "alices-adventures-0259",
+      "text": "\"Shall we try another figure of the Lobster Quadrille?\" the Gryphon went on. \"Or would you like the Mock Turtle to sing you a song?\"",
+      "words": 25,
+      "difficulty": "hard",
+      "score": 1.21,
+      "sourceId": "alices-adventures",
+      "paragraph": 632
+    },
+    {
+      "id": "alices-adventures-0260",
+      "text": "\"Chorus again!\" cried the Gryphon, and the Mock Turtle had just begun to repeat it, when a cry of \"The trial's beginning!\" was heard in the distance.",
+      "words": 27,
+      "difficulty": "hard",
+      "score": 1.36,
+      "sourceId": "alices-adventures",
+      "paragraph": 637
+    },
+    {
+      "id": "alices-adventures-0261",
+      "text": "In the very middle of the court was a table, with a large dish of tarts upon it: they looked so good, that it made Alice quite hungry to look at them - \"I wish they'd get the trial done,\" she thought, \"and hand round the refreshments!\"",
+      "words": 46,
+      "difficulty": "medium",
+      "score": 0.572,
+      "sourceId": "alices-adventures",
+      "paragraph": 641
+    },
+    {
+      "id": "alices-adventures-0262",
+      "text": "Alice had never been in a court of justice before, but she had read about them in books, and she was quite pleased to find that she knew the name of nearly everything there.",
+      "words": 34,
+      "difficulty": "easy",
+      "score": 0.003,
+      "sourceId": "alices-adventures",
+      "paragraph": 642
+    },
+    {
+      "id": "alices-adventures-0263",
+      "text": "The judge, by the way, was the King; and as he wore his crown over the wig, (look at the frontispiece if you want to see how he did it,) he did not look at all comfortable, and it was certainly not becoming.",
+      "words": 43,
+      "difficulty": "easy",
+      "score": 0.212,
+      "sourceId": "alices-adventures",
+      "paragraph": 643
+    },
+    {
+      "id": "alices-adventures-0264",
+      "text": "\"And that's the jury-box,\" thought Alice, \"and those twelve creatures,\" (she was obliged to say \"creatures,\" you see, because some of them were animals, and some were birds,) \"I suppose they are the jurors.\"",
+      "words": 34,
+      "difficulty": "hard",
+      "score": 1.366,
+      "sourceId": "alices-adventures",
+      "paragraph": 644
+    },
+    {
+      "id": "alices-adventures-0265",
+      "text": "She said this last word two or three times over to herself, being rather proud of it: for she thought, and rightly too, that very few little girls of her age knew the meaning of it at all.",
+      "words": 38,
+      "difficulty": "easy",
+      "score": -0.013,
+      "sourceId": "alices-adventures",
+      "paragraph": 644
+    },
+    {
+      "id": "alices-adventures-0266",
+      "text": "The twelve jurors were all writing very busily on slates. \"What are they doing?\" Alice whispered to the Gryphon. \"They can't have anything to put down yet, before the trial's begun.\"",
+      "words": 31,
+      "difficulty": "hard",
+      "score": 1.501,
+      "sourceId": "alices-adventures",
+      "paragraph": 645
+    },
+    {
+      "id": "alices-adventures-0267",
+      "text": "\"Stupid things!\" Alice began in a loud, indignant voice, but she stopped hastily, for the White Rabbit cried out, \"Silence in the court!\" and the King put on his spectacles and looked anxiously round, to make out who was talking.",
+      "words": 40,
+      "difficulty": "hard",
+      "score": 1.074,
+      "sourceId": "alices-adventures",
+      "paragraph": 647
+    },
+    {
+      "id": "alices-adventures-0268",
+      "text": "Alice could see, as well as if she were looking over their shoulders, that all the jurors were writing down \"stupid things!\" on their slates, and she could even make out that one of them didn't know how to spell \"stupid,\" and that he had to ask his neighbour to tell him.",
+      "words": 52,
+      "difficulty": "medium",
+      "score": 0.591,
+      "sourceId": "alices-adventures",
+      "paragraph": 648
+    },
+    {
+      "id": "alices-adventures-0269",
+      "text": "One of the jurors had a pencil that squeaked. This of course, Alice could not stand, and she went round the court and got behind him, and very soon found an opportunity of taking it away.",
+      "words": 36,
+      "difficulty": "easy",
+      "score": 0.401,
+      "sourceId": "alices-adventures",
+      "paragraph": 649
+    },
+    {
+      "id": "alices-adventures-0270",
+      "text": "\"The Queen of Hearts, she made some tarts, All on a summer day: The Knave of Hearts, he stole those tarts, And took them quite away!\"",
+      "words": 26,
+      "difficulty": "medium",
+      "score": 0.709,
+      "sourceId": "alices-adventures",
+      "paragraph": 652
+    },
+    {
+      "id": "alices-adventures-0271",
+      "text": "The first witness was the Hatter. He came in with a teacup in one hand and a piece of bread-and-butter in the other. \"I beg pardon, your Majesty,\" he began, \"for bringing these in: but I hadn't quite finished my tea when I was sent for.\"",
+      "words": 46,
+      "difficulty": "medium",
+      "score": 0.62,
+      "sourceId": "alices-adventures",
+      "paragraph": 656
+    },
+    {
+      "id": "alices-adventures-0272",
+      "text": "The Hatter looked at the March Hare, who had followed him into the court, arm-in-arm with the Dormouse. \"Fourteenth of March, I think it was,\" he said.",
+      "words": 27,
+      "difficulty": "hard",
+      "score": 1.048,
+      "sourceId": "alices-adventures",
+      "paragraph": 658
+    },
+    {
+      "id": "alices-adventures-0273",
+      "text": "\"Write that down,\" the King said to the jury, and the jury eagerly wrote down all three dates on their slates, and then added them up, and reduced the answer to shillings and pence.",
+      "words": 34,
+      "difficulty": "hard",
+      "score": 0.951,
+      "sourceId": "alices-adventures",
+      "paragraph": 661
+    },
+    {
+      "id": "alices-adventures-0274",
+      "text": "This did not seem to encourage the witness at all: he kept shifting from one foot to the other, looking uneasily at the Queen, and in his confusion he bit a large piece out of his teacup instead of the bread-and-butter.",
+      "words": 41,
+      "difficulty": "medium",
+      "score": 0.516,
+      "sourceId": "alices-adventures",
+      "paragraph": 668
+    },
+    {
+      "id": "alices-adventures-0275",
+      "text": "\"Yes, but I grow at a reasonable pace,\" said the Dormouse: \"not in that ridiculous fashion.\" And he got up very sulkily and crossed over to the other side of the court.",
+      "words": 32,
+      "difficulty": "medium",
+      "score": 0.711,
+      "sourceId": "alices-adventures",
+      "paragraph": 674
+    },
+    {
+      "id": "alices-adventures-0276",
+      "text": "All this time the Queen had never left off staring at the Hatter, and, just as the Dormouse crossed the court, she said to one of the officers of the court, \"Bring me the list of the singers in the last concert!\" on which the wretched Hatter trembled so, that he shook both his shoes off.",
+      "words": 56,
+      "difficulty": "medium",
+      "score": 0.541,
+      "sourceId": "alices-adventures",
+      "paragraph": 675
+    },
+    {
+      "id": "alices-adventures-0277",
+      "text": "\"Well, at any rate, the Dormouse said - \" the Hatter went on, looking anxiously round to see if he would deny it too: but the Dormouse denied nothing, being fast asleep.",
+      "words": 30,
+      "difficulty": "hard",
+      "score": 1.233,
+      "sourceId": "alices-adventures",
+      "paragraph": 686
+    },
+    {
+      "id": "alices-adventures-0278",
+      "text": "\"I'm glad I've seen that done,\" thought Alice. \"I've so often read in the newspapers, at the end of trials, \"There was some attempts at applause, which was immediately suppressed by the officers of the court,\" and I never understood what it meant till now.\"",
+      "words": 45,
+      "difficulty": "hard",
+      "score": 1.2,
+      "sourceId": "alices-adventures",
+      "paragraph": 694
+    },
+    {
+      "id": "alices-adventures-0279",
+      "text": "\" - and just take his head off outside,\" the Queen added to one of the officers: but the Hatter was out of sight before the officer could get to the door.",
+      "words": 30,
+      "difficulty": "easy",
+      "score": 0.29,
+      "sourceId": "alices-adventures",
+      "paragraph": 702
+    },
+    {
+      "id": "alices-adventures-0280",
+      "text": "The next witness was the Duchess's cook. She carried the pepper-box in her hand, and Alice guessed who it was, even before she got into the court, by the way the people near the door began sneezing all at once.",
+      "words": 40,
+      "difficulty": "medium",
+      "score": 0.524,
+      "sourceId": "alices-adventures",
+      "paragraph": 704
+    },
+    {
+      "id": "alices-adventures-0281",
+      "text": "\"Well, if I must, I must,\" the King said, with a melancholy air, and, after folding his arms and frowning at the cook till his eyes were nearly out of sight, he said in a deep voice, \"What are tarts made of?\"",
+      "words": 42,
+      "difficulty": "easy",
+      "score": 0.306,
+      "sourceId": "alices-adventures",
+      "paragraph": 708
+    },
+    {
+      "id": "alices-adventures-0282",
+      "text": "For some minutes the whole court was in confusion, getting the Dormouse turned out, and, by the time they had settled down again, the cook had disappeared.",
+      "words": 27,
+      "difficulty": "medium",
+      "score": 0.826,
+      "sourceId": "alices-adventures",
+      "paragraph": 712
+    },
+    {
+      "id": "alices-adventures-0283",
+      "text": "Alice watched the White Rabbit as he fumbled over the list, feeling very curious to see what the next witness would be like, \" - for they haven't got much evidence yet,\" she said to herself.",
+      "words": 34,
+      "difficulty": "medium",
+      "score": 0.927,
+      "sourceId": "alices-adventures",
+      "paragraph": 714
+    },
+    {
+      "id": "alices-adventures-0284",
+      "text": "\"Oh, I beg your pardon!\" she exclaimed in a tone of great dismay, and began picking them up again as quickly as she could, for the accident of the goldfish kept running in her head, and she had a vague sort of idea that they must be collected at once and put back into the jury-box, or they would die.",
+      "words": 60,
+      "difficulty": "easy",
+      "score": 0.329,
+      "sourceId": "alices-adventures",
+      "paragraph": 716
+    },
+    {
+      "id": "alices-adventures-0285",
+      "text": "\"The trial cannot proceed,\" said the King in a very grave voice, \"until all the jurymen are back in their proper places - all,\" he repeated with great emphasis, looking hard at Alice as he said so.",
+      "words": 36,
+      "difficulty": "medium",
+      "score": 0.752,
+      "sourceId": "alices-adventures",
+      "paragraph": 717
+    },
+    {
+      "id": "alices-adventures-0286",
+      "text": "Alice looked at the jury-box, and saw that, in her haste, she had put the Lizard in head downwards, and the poor little thing was waving its tail about in a melancholy way, being quite unable to move.",
+      "words": 38,
+      "difficulty": "medium",
+      "score": 0.535,
+      "sourceId": "alices-adventures",
+      "paragraph": 718
+    },
+    {
+      "id": "alices-adventures-0287",
+      "text": "She soon got it out again, and put it right; \"not that it signifies much,\" she said to herself; \"I should think it would be quite as much use in the trial one way up as the other.\"",
+      "words": 38,
+      "difficulty": "easy",
+      "score": -0.016,
+      "sourceId": "alices-adventures",
+      "paragraph": 718
+    },
+    {
+      "id": "alices-adventures-0288",
+      "text": "\"That's very important,\" the King said, turning to the jury. They were just beginning to write this down on their slates, when the White Rabbit interrupted: \"Unimportant, your Majesty means, of course,\" he said in a very respectful tone, but frowning and making faces at him as he spoke.",
+      "words": 49,
+      "difficulty": "hard",
+      "score": 1.282,
+      "sourceId": "alices-adventures",
+      "paragraph": 724
+    },
+    {
+      "id": "alices-adventures-0289",
+      "text": "Some of the jury wrote it down \"important,\" and some \"unimportant.\" Alice could see this, as she was near enough to look over their slates; \"but it doesn't matter a bit,\" she thought to herself.",
+      "words": 35,
+      "difficulty": "hard",
+      "score": 1.042,
+      "sourceId": "alices-adventures",
+      "paragraph": 727
+    },
+    {
+      "id": "alices-adventures-0290",
+      "text": "\"There's more evidence to come yet, please your Majesty,\" said the White Rabbit, jumping up in a great hurry; \"this paper has just been picked up.\"",
+      "words": 26,
+      "difficulty": "hard",
+      "score": 1.173,
+      "sourceId": "alices-adventures",
+      "paragraph": 737
+    },
+    {
+      "id": "alices-adventures-0291",
+      "text": "\"It isn't directed at all,\" said the White Rabbit; \"in fact, there's nothing written on the outside.\" He unfolded the paper as he spoke, and added \"It isn't a letter, after all: it's a set of verses.\"",
+      "words": 37,
+      "difficulty": "hard",
+      "score": 1.078,
+      "sourceId": "alices-adventures",
+      "paragraph": 742
+    },
+    {
+      "id": "alices-adventures-0292",
+      "text": "\"If you didn't sign it,\" said the King, \"that only makes the matter worse. You must have meant some mischief, or else you'd have signed your name like an honest man.\"",
+      "words": 31,
+      "difficulty": "medium",
+      "score": 0.85,
+      "sourceId": "alices-adventures",
+      "paragraph": 747
+    },
+    {
+      "id": "alices-adventures-0293",
+      "text": "He sent them word I had not gone (We know it to be true): If she should push the matter on, What would become of you?",
+      "words": 26,
+      "difficulty": "easy",
+      "score": -0.311,
+      "sourceId": "alices-adventures",
+      "paragraph": 756
+    },
+    {
+      "id": "alices-adventures-0294",
+      "text": "I gave her one, they gave him two, You gave us three or more; They all returned from him to you, Though they were mine before.",
+      "words": 26,
+      "difficulty": "easy",
+      "score": -0.111,
+      "sourceId": "alices-adventures",
+      "paragraph": 757
+    },
+    {
+      "id": "alices-adventures-0295",
+      "text": "The jury all wrote down on their slates, \"She doesn't believe there's an atom of meaning in it,\" but none of them attempted to explain the paper.",
+      "words": 27,
+      "difficulty": "hard",
+      "score": 1.061,
+      "sourceId": "alices-adventures",
+      "paragraph": 763
+    },
+    {
+      "id": "alices-adventures-0296",
+      "text": "\"Why, there they are!\" said the King triumphantly, pointing to the tarts on the table. \"Nothing can be clearer than that. Then again - 'before she had this fit - ' you never had fits, my dear, I think?\" he said to the Queen.",
+      "words": 41,
+      "difficulty": "hard",
+      "score": 0.94,
+      "sourceId": "alices-adventures",
+      "paragraph": 768
+    },
+    {
+      "id": "alices-adventures-0297",
+      "text": "\"It's a pun!\" the King added in an offended tone, and everybody laughed, \"Let the jury consider their verdict,\" the King said, for about the twentieth time that day.",
+      "words": 29,
+      "difficulty": "hard",
+      "score": 1.363,
+      "sourceId": "alices-adventures",
+      "paragraph": 771
+    }
+  ]
+}

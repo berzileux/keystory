@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "limits": {
+    "min": 25,
+    "max": 60
+  },
+  "difficulty": {
+    "easy": 4609,
+    "medium": 4610,
+    "hard": 4610
+  },
+  "sources": [
+    {
+      "status": "active",
+      "id": "pride-and-prejudice",
+      "title": "Pride and Prejudice",
+      "gutenbergTitle": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "year": 1813,
+      "gutenbergId": 1342,
+      "startMarker": "It is a truth universally acknowledged, that a single man in possession",
+      "occurrence": 1,
+      "file": "passages-pride-and-prejudice.json",
+      "passages": 1843
+    },
+    {
+      "status": "active",
+      "id": "alices-adventures",
+      "title": "Alice's Adventures in Wonderland",
+      "gutenbergTitle": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "year": 1865,
+      "gutenbergId": 11,
+      "startMarker": "CHAPTER I.",
+      "occurrence": 2,
+      "file": "passages-alices-adventures.json",
+      "passages": 298
+    },
+    {
+      "status": "active",
+      "id": "frankenstein",
+      "title": "Frankenstein",
+      "gutenbergTitle": "Frankenstein; or, the modern prometheus",
+      "author": "Mary Wollstonecraft Shelley",
+      "year": 1818,
+      "gutenbergId": 84,
+      "file": "passages-frankenstein.json",
+      "passages": 1395
+    },
+    {
+      "status": "active",
+      "id": "treasure-island",
+      "title": "Treasure Island",
+      "gutenbergTitle": "Treasure Island",
+      "author": "Robert Louis Stevenson",
+      "year": 1883,
+      "gutenbergId": 120,
+      "startMarker": "PART ONE--The Old Buccaneer",
+      "occurrence": 1,
+      "file": "passages-treasure-island.json",
+      "passages": 1184
+    },
+    {
+      "status": "active",
+      "id": "dracula",
+      "title": "Dracula",
+      "gutenbergTitle": "Dracula",
+      "author": "Bram Stoker",
+      "year": 1897,
+      "gutenbergId": 345,
+      "startMarker": "CHAPTER I\n",
+      "occurrence": 1,
+      "file": "passages-dracula.json",
+      "passages": 2890
+    },
+    {
+      "status": "active",
+      "id": "sherlock-holmes",
+      "title": "The Adventures of Sherlock Holmes",
+      "gutenbergTitle": "The Adventures of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "year": 1892,
+      "gutenbergId": 1661,
+      "startMarker": "A SCANDAL IN BOHEMIA",
+      "occurrence": 1,
+      "file": "passages-sherlock-holmes.json",
+      "passages": 1421
+    },
+    {
+      "status": "active",
+      "id": "dorian-gray",
+      "title": "The Picture of Dorian Gray",
+      "gutenbergTitle": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "year": 1890,
+      "gutenbergId": 174,
+      "startMarker": "CHAPTER I.",
+      "occurrence": 2,
+      "file": "passages-dorian-gray.json",
+      "passages": 1398
+    },
+    {
+      "status": "active",
+      "id": "time-machine",
+      "title": "The Time Machine",
+      "gutenbergTitle": "The Time Machine",
+      "author": "H. G. Wells",
+      "year": 1895,
+      "gutenbergId": 35,
+      "startMarker": "The Time Traveller (for so it will be convenient",
+      "occurrence": 1,
+      "file": "passages-time-machine.json",
+      "passages": 615
+    },
+    {
+      "status": "active",
+      "id": "walden",
+      "title": "Walden",
+      "gutenbergTitle": "Walden, and On The Duty Of Civil Disobedience",
+      "author": "Henry David Thoreau",
+      "year": 1854,
+      "gutenbergId": 205,
+      "startMarker": "\nWALDEN\n",
+      "occurrence": 2,
+      "endMarker": "ON THE DUTY OF CIVIL DISOBEDIENCE",
+      "endOccurrence": 1,
+      "file": "passages-walden.json",
+      "passages": 1781
+    },
+    {
+      "status": "active",
+      "id": "marcus-aurelius-meditations",
+      "title": "Meditations",
+      "gutenbergTitle": "Meditations",
+      "author": "Marcus Aurelius (trans. George Long)",
+      "year": 1862,
+      "gutenbergId": 2680,
+      "startMarker": "THE FIRST BOOK",
+      "occurrence": 1,
+      "endMarker": "APPENDIX",
+      "endOccurrence": 1,
+      "stripLeadingNumerals": true,
+      "file": "passages-marcus-aurelius-meditations.json",
+      "passages": 1004
+    }
+  ]
+}

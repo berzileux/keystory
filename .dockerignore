@@ -1,0 +1,24 @@
+# Not needed by the build stage (vite build only touches src/ui/** and
+# public/**; verified by grep - nothing under src/ imports from corpus/src or
+# scripts/). Keep these out of the Docker build context entirely, distinct
+# from public/corpus/, which the app serves and must stay in.
+/corpus
+/scripts
+
+node_modules
+dist
+.git
+.github
+.tmp
+
+# Task/agent bookkeeping, not part of the app.
+CLAUDE_CACHE
+output-*.md
+keystory-phase-*.md
+
+*.log
+.DS_Store
+.env
+.env.*
+.vscode
+.idea

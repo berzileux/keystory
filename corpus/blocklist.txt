@@ -1,0 +1,95 @@
+# One lowercase entry per line. Case-insensitive, whole-word (a longer word that
+# merely contains an entry does not match). An entry may be a single word or a
+# phrase (space- or hyphen-separated; hyphen, space and whitespace runs are
+# treated as equivalent separators). An entry also matches its own possessive
+# forms ('s and a trailing '), but NOT a plain plural or other variant - those
+# are listed explicitly where they occur in this corpus.
+# Passages containing any listed entry are rejected at build time (and removed
+# by `npm run corpus:ban` from an already-built corpus).
+# This is a curated list, not an exhaustive one
+
+negro
+negress
+squaw
+heathen
+heathens
+savage
+savages
+gipsy
+gypsy
+negroes
+negresses
+gipsies
+gypsies
+squaws
+
+# racial, ethnic, national and religious slurs and dated exonyms/labels
+# now offensive when applied to people, found in this corpus.
+chinaman
+chinamen
+coolie
+coolies
+darkey
+darkeys
+darky
+darkies
+mulatto
+mulattos
+hottentot
+hottentots
+redskin
+redskins
+injun
+injuns
+kaffir
+kaffirs
+lascar
+lascars
+
+# "oriental(s)" applied to people is a dated, now-offensive exonym (distinct
+# from the plain adjective describing geography/objects, which this corpus
+# also uses, but the blocklist cannot distinguish sense
+oriental
+orientals
+half-caste
+half-breed
+halfbreed
+jew
+jews
+
+# dehumanising group labels.
+barbarian
+barbarians
+heathenish
+savagery
+savagely
+cannibal
+cannibals
+
+# ableist insults and slurs.
+cripple
+cripples
+crippled
+imbecile
+imbeciles
+moron
+morons
+idiot
+idiots
+lunatic
+lunatics
+
+# misogynistic, sexual or sexual-orientation epithets.
+wench
+wenches
+harlot
+harlots
+hussy
+whore
+whores
+slut
+sluts
+bitch
+bitches
+sodomite
+sodomites

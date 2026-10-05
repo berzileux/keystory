@@ -1,0 +1,155 @@
+:root {
+  --bg: #0f1216;
+  --panel: #171b21;
+  --line: #262d36;
+  --text: #dfe6ee;
+  --dim: #7b8696;
+  --accent: #ff9a62;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text); font-family: 'IBM Plex Sans', system-ui, sans-serif; }
+button { font: inherit; color: inherit; cursor: pointer; }
+/* A flex column filling at least the viewport height, with the footer last and pushed down
+   by its own auto margin: when content is shorter than the screen the footer sits at the
+   bottom edge; when content is taller, the auto margin collapses to 0 and the footer simply
+   follows the content, the same as normal block flow would. dvh (not vh) so mobile browser
+   chrome showing/hiding doesn't leave a gap below the footer or cut it off. */
+.app { max-width: 980px; margin: 0 auto; padding: 24px 16px 0; display: flex; flex-direction: column; min-height: 100dvh; }
+header { display: flex; align-items: baseline; gap: 16px; margin-bottom: 24px; }
+footer { margin-top: auto; padding: 32px 0 16px; text-align: center; color: var(--dim); font-size: 12px; }
+footer a { color: var(--dim); text-decoration: underline; }
+footer a:hover { color: var(--text); }
+.brand { background: none; border: 0; padding: 0; font-family: 'JetBrains Mono', monospace; font-size: 22px; color: var(--accent); display: inline-flex; align-items: center; gap: 8px; }
+.brand .mark { border-radius: 5px; flex-shrink: 0; }
+.tag { color: var(--dim); font-size: 13px; }
+.msg { color: var(--dim); }
+.msg.error { border: 1px solid var(--line); background: var(--panel); padding: 16px; border-radius: 8px; color: var(--text); }
+code { font-family: 'JetBrains Mono', monospace; background: var(--bg); padding: 1px 5px; border-radius: 4px; }
+
+.bar { display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 18px; }
+.grp { display: inline-flex; background: var(--panel); border-radius: 8px; padding: 3px; gap: 2px; }
+.pill { background: none; border: 0; padding: 5px 12px; border-radius: 6px; color: var(--dim); font-size: 13px; }
+.pill.narrow { padding: 5px 9px; }
+.pill[aria-pressed='true'] { color: var(--accent); background: var(--bg); }
+
+/* Always rendered (never conditional), so switching between mode/length combinations never
+   shifts the passage box below it - min-height reserves room for the tallest combination's
+   wrapped text at each breakpoint (measured directly, not guessed: the longest hint text
+   wraps to 2 lines at 1100px, 3 lines at 390px wide, 4 lines at 320px wide). line-height is
+   tightened from the browser default to reclaim vertical space for the no-scroll budget
+   below, without changing font-size or wording. */
+.mode-hint { max-width: 640px; margin: 0 auto 12px; min-height: 52px; line-height: 1.2; }
+@media (max-width: 720px) { .mode-hint { min-height: 94px; } }
+
+.live-row { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 8px; margin-bottom: 6px; }
+.live { display: flex; gap: 18px; align-items: baseline; font-family: 'JetBrains Mono', monospace; }
+.live-time { font-size: 28px; color: var(--accent); }
+.live-dim { color: var(--dim); font-size: 14px; }
+.src { color: var(--dim); font-size: 12px; }
+
+.passage { position: relative; height: 168px; overflow: hidden; cursor: text; }
+.chars { font-family: 'JetBrains Mono', monospace; font-size: 26px; line-height: 56px; white-space: pre-wrap; word-break: break-word; }
+.passage.blur .chars { filter: blur(4px); }
+.focus-hint { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; color: var(--text); }
+.chars .pending { color: #5b6574; }
+.chars .ok { color: var(--text); }
+.chars .bad { color: #ff6b6b; }
+.chars .bad.sp { background: rgba(255, 107, 107, 0.35); }
+.chars .cur { color: #5b6574; border-left: 2px solid var(--accent); margin-left: -2px; }
+.capture { position: absolute; opacity: 0; width: 1px; height: 1px; pointer-events: none; left: -9999px; }
+
+.restart-row { display: flex; justify-content: center; margin: 8px 0 16px; }
+.icon-btn { background: none; border: 0; color: var(--dim); padding: 8px; border-radius: 8px; }
+.icon-btn:hover { color: var(--text); }
+
+.kb-wrap { display: flex; flex-direction: column; align-items: center; gap: 12px; }
+.kb { display: flex; flex-direction: column; gap: 6px; align-items: flex-start; }
+.kb-row { display: flex; gap: 6px; }
+.kb-row.r1 { margin-left: 26px; }
+.kb-row.r2 { margin-left: 74px; }
+.kb-row.r3 { margin-left: 120px; }
+.key { width: 46px; height: 46px; border-radius: 8px; border: 1px solid var(--line); background: var(--panel); color: var(--dim);
+  display: inline-flex; align-items: center; justify-content: center; font-family: 'JetBrains Mono', monospace; font-size: 14px; padding: 0; }
+.key.space { width: 304px; }
+
+/* The live practice keyboard (unlike the results heatmap, which already contains its own
+   overflow with `overflow-x: auto` and computes its stagger from inline styles rather than
+   these classes) has no such guard, so its fixed 46px keys overflow the page below ~620px.
+   --k is one unit - 1/23 of the desktop key size - and every key width, gap and row offset
+   below is that same desktop pixel value expressed as a multiple of it, so at 1100px+ (where
+   the min() below always resolves to the 2px cap) this renders pixel-identical to the rules
+   above; below that it shrinks the whole keyboard, stagger included, to fit the viewport. */
+.kb-wrap { --k: min(2px, calc((100vw - 32px) / 294)); }
+.kb-wrap .kb { gap: calc(var(--k) * 3); }
+.kb-wrap .kb-row { gap: calc(var(--k) * 3); }
+.kb-wrap .kb-row.r1 { margin-left: calc(var(--k) * 13); }
+.kb-wrap .kb-row.r2 { margin-left: calc(var(--k) * 37); }
+.kb-wrap .kb-row.r3 { margin-left: calc(var(--k) * 60); }
+.kb-wrap .key { width: calc(var(--k) * 23); height: calc(var(--k) * 23); font-size: calc(var(--k) * 7); }
+.kb-wrap .key.space { width: calc(var(--k) * 152); }
+.key.next { border-color: var(--accent); color: var(--accent); }
+.key.wrong { background: #5a2323; border-color: #ff6b6b; color: #ffb3b3; }
+.hint { color: var(--dim); font-size: 13px; text-align: center; max-width: 520px; }
+
+.summary { display: flex; gap: 32px; align-items: flex-end; flex-wrap: wrap; margin-bottom: 24px; }
+.summary .label { display: block; color: var(--dim); font-size: 12px; text-transform: uppercase; }
+.summary .big { font-family: 'JetBrains Mono', monospace; font-size: 56px; color: var(--accent); line-height: 1; }
+.summary .minor span:last-child { font-family: 'JetBrains Mono', monospace; font-size: 22px; }
+
+.banner { display: flex; justify-content: space-between; align-items: center; gap: 16px; padding: 14px 16px; border-radius: 10px; border: 1px solid var(--line); background: var(--panel); margin-bottom: 20px; }
+.banner p { margin: 4px 0 0; color: var(--dim); font-size: 13px; }
+.banner.fingers { border-color: #7a5f8a; }
+.banner.keys { border-color: var(--accent); }
+.meter { display: flex; gap: 3px; }
+.meter span { width: 10px; height: 18px; border-radius: 2px; background: var(--line); }
+.meter span.on { background: var(--accent); }
+
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 16px; margin-bottom: 20px; }
+.card h3 { margin: 0 0 12px; font-size: 14px; font-weight: 500; }
+.card-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
+.card-head h3 { margin: 0; }
+.kb.heat { overflow-x: auto; max-width: 100%; }
+.kb.heat .key { cursor: pointer; }
+.kb.heat .key.sel { outline: 2px solid var(--text); outline-offset: 1px; }
+
+/* The results heatmap has its own unit, --hk, separate from the live keyboard's --k (the
+   two keyboards never share layout, and the heatmap's stagger is computed from `row.pad`,
+   not the live keyboard's three fixed margins). 0.08px is the largest unit that divides
+   today's literal pixel values - 46 (key), 6 (gap), 14 (font), 4 (bottom padding), and the
+   two existing stagger margins, 13.52px and 38.48px - into exact integers (575, 75, 175, 50,
+   169 and 481 respectively), so at the desktop cap every calc() below reproduces today's
+   exact pixel value with no rounding drift. 6906 is the widest row's total unit count: ten
+   575-unit keys plus nine 75-unit gaps plus the largest, 481-unit, row margin. overflow-x:
+   auto above stays as a safety net - this unit guarantees every row fits, so it should never
+   engage; Step 5 of the phase that added this measured that it doesn't. */
+.kb.heat {
+  --hk: min(0.08px, calc((100vw - 66px) / 6906));
+  gap: calc(var(--hk) * 75);
+  padding-bottom: calc(var(--hk) * 50);
+}
+.kb.heat .kb-row { gap: calc(var(--hk) * 75); }
+.kb.heat .key { width: calc(var(--hk) * 575); height: calc(var(--hk) * 575); font-size: calc(var(--hk) * 175); }
+.legend { display: flex; align-items: center; gap: 8px; margin-top: 12px; font-size: 12px; color: var(--dim); }
+.ramp { width: 120px; height: 8px; border-radius: 4px; background: linear-gradient(90deg, rgb(31,58,82), rgb(122,95,138), rgb(255,154,98)); }
+.detail { display: flex; align-items: center; gap: 16px; margin-top: 16px; flex-wrap: wrap; }
+.detail-key { width: 48px; height: 48px; border-radius: 8px; display: inline-flex; align-items: center; justify-content: center; font-family: 'JetBrains Mono', monospace; font-size: 20px; }
+.detail dl { display: flex; gap: 20px; margin: 0; flex-wrap: wrap; }
+.detail dt { color: var(--dim); font-size: 12px; }
+.detail dd { margin: 0; font-family: 'JetBrains Mono', monospace; }
+.note { color: var(--dim); font-size: 13px; margin: 8px 0 0; }
+.insight p { margin: 0 0 6px; }
+.insight p:last-child { margin: 0; }
+.two { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+@media (max-width: 720px) { .two { grid-template-columns: 1fr; } .tag { display: none; } }
+.bars { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.bars li { display: grid; grid-template-columns: 90px 1fr 70px; gap: 10px; align-items: center; font-size: 13px; }
+.bar-track { height: 10px; background: var(--bg); border-radius: 5px; overflow: hidden; }
+.bar-fill { display: block; height: 100%; border-radius: 5px; }
+.bar-val { text-align: right; font-family: 'JetBrains Mono', monospace; color: var(--dim); }
+
+.actions { display: flex; gap: 10px; flex-wrap: wrap; }
+.actions button { background: var(--panel); border: 1px solid var(--line); padding: 9px 16px; border-radius: 8px; }
+.actions button:disabled { opacity: 0.4; cursor: not-allowed; }
+.actions .primary { background: var(--accent); color: #1a1210; border-color: var(--accent); }
+.actions .danger { margin-left: auto; color: #ff8a8a; }

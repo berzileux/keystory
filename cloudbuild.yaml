@@ -1,0 +1,64 @@
+# Build, test, push and deploy keystory to Cloud Run.
+# Modelled on letter-duel/cloudbuild.yaml. Trigger on pushes to main. For a
+# manual run (no trigger), $COMMIT_SHA is empty, so pass it explicitly:
+#   gcloud builds submit --config=cloudbuild.yaml --substitutions=COMMIT_SHA=$(git rev-parse HEAD)
+
+substitutions:
+  _REGION: us-central1
+  _REPO: letter-duel
+  _SERVICE: keystory
+
+steps:
+  # Step 1 - install, typecheck and test. A failure here stops the build:
+  # nothing is pushed or deployed if this step fails. Same exact Node tag as
+  # the Dockerfile's build stage, so what is tested is what is built.
+  - name: 'node:22.23.3-alpine3.24'
+    entrypoint: npm
+    args: ['ci']
+  - name: 'node:22.23.3-alpine3.24'
+    entrypoint: npm
+    args: ['run', 'typecheck']
+  - name: 'node:22.23.3-alpine3.24'
+    entrypoint: npm
+    args: ['test']
+
+  # Step 2 - build the Docker image, tagged with the commit SHA only.
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'build'
+      - '-t'
+      - '${_REGION}-docker.pkg.dev/$PROJECT_ID/${_REPO}/keystory:$COMMIT_SHA'
+      - '.'
+
+  # Step 3 - push the image to Artifact Registry.
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'push'
+      - '${_REGION}-docker.pkg.dev/$PROJECT_ID/${_REPO}/keystory:$COMMIT_SHA'
+
+  # Step 4 - deploy to Cloud Run.
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - '${_SERVICE}'
+      - '--image=${_REGION}-docker.pkg.dev/$PROJECT_ID/${_REPO}/keystory:$COMMIT_SHA'
+      - '--region=${_REGION}'
+      - '--platform=managed'
+      - '--allow-unauthenticated'
+      - '--port=8080'
+      - '--memory=256Mi'
+      - '--cpu=1'
+      - '--min-instances=0'
+      - '--max-instances=3'
+      - '--concurrency=80'
+      - '--timeout=30'
+
+options:
+  logging: CLOUD_LOGGING_ONLY
+
+images:
+  - '${_REGION}-docker.pkg.dev/$PROJECT_ID/${_REPO}/keystory:$COMMIT_SHA'
+
+timeout: 1200s
